@@ -1,0 +1,182 @@
+<mjml>
+  <mj-head>
+    <mj-title>The Emory London Cancellation
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-breakpoint width="595px">
+    </mj-breakpoint>
+    <mj-font name="Schibsted Grotesk" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap"/>
+    <mj-style>
+      td.reservation_details{padding:10px 0 0px !important;}
+      @media(max-width:595px){
+      td.cance-mob-pad{padding-top:0px !important;}
+      td.tax-head-pad{padding-bottom:10px !important;}
+      div{text-align:center !important;}
+      td.btn-btm-pad{padding-bottom:20px !important}
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text color="#020301" font-family="Schibsted Grotesk, sans-serif" font-size="10px" padding="10px 0px" line-height="120%">
+      </mj-text>
+      <mj-section background-color="#FDFBF7" padding="0px 20px">
+      </mj-section>
+      <mj-button font-size="10px" font-family="'Schibsted Grotesk', sans-serif">
+      </mj-button>
+    </mj-attributes>
+    <mj-raw>
+      <!--[if mso]>
+<style type="text/css">
+td.btn_cls table{width: auto !important;}
+td.btn_cls table td a, td.btn_cls table td{padding:10px 40px !important;}
+</style>
+<![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#FDFBF7">
+    <!-- PRE HEADER -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding="20px 0 0 0" align="center" color="#020301" font-size="10px" line-height="130%">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2801260/%20@@MID64@@" style="text-decoration:none; color:#020301;" target="_blank">
+            View in browser
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- PRE HEADER EEND-->
+    <!-- HEADER -->
+    <mj-section>
+      <mj-column>
+        <mj-image alt="The Emory London Logo" src="https://images.tcgms.net/assets/l32737d32i00/media/images/cb98d372-8209-4c0e-809b-2e2337e1de54.jpg" width="180px" href="http://tcgms.net/tr/c/@@MID@@/2801200" padding="20px 0px"/>
+      </mj-column>
+    </mj-section>
+    <!-- HEADER END -->
+    <!-- HERO IMAGE -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0" alt="Exterior view of the Emory London Hotel" src="https://images.tcgms.net/assets/l32737d32i00/media/images/aab349f3-cf20-4c4b-b7e6-bfec9fc93be0.jpg" href="http://tcgms.net/tr/c/@@MID@@/2801200"/>
+      </mj-column>
+    </mj-section>
+    <!-- HERO IMAGE END -->
+    <!-- BODY TEXT -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="20px">
+          Dear Mr/Mrs,
+          <br>
+          <br>Thank you for taking the time to contact us.
+          <br>
+          <br>
+          I am sorry that we will not be able to welcome you to The Berkeley on this occasion, and have cancelled the below reservation as you requested. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#180EC2" border-width="2px" padding="10px 0 10px"/>
+      </mj-column>
+    </mj-section>
+    <!-- RESERVATION BLOCK WITH THE IMAGE -->
+    <mj-section padding="10px 20px 20px" direction="rtl">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="13.5px" font-weight="bold" padding-bottom="0px" padding-top="0" css-class="reservation_details_2">CANCELLATION DETAILS 
+        </mj-text>
+        <mj-text padding-right="20px" css-class="reservation_details">
+          <b>Confirmation No.: 
+          </b>@@opera_raw_id@@
+        </mj-text>
+        <mj-text padding-right="20px" css-class="reservation_details">
+          <b>Guest Name: 
+          </b>@@salutation@@@@rsfname@@ @@rslname@@
+        </mj-text>
+        <mj-text css-class="reservation_details">
+          <b>Arrival Date: 
+          </b>@@check_in@@
+        </mj-text>
+        <mj-text css-class="reservation_details">
+          <b>Departure Date: 
+          </b>@@check_out@@
+        </mj-text>
+        <mj-text css-class="reservation_details">@@Room_Type_SQL_js@@
+        </mj-text>
+        <mj-text css-class="reservation_details">
+          <b>Cancellation Date: 
+          </b>@@cancellation_date@@
+        </mj-text>
+        <mj-text css-class="reservation_details">
+          <b>Cancellation No.: 
+          </b>@@cancellation_number@@
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- RESERVATION BLOCK WITH THE IMAGE END -->
+    <!-- POLICY BLOCK -->
+    <!-- POLICY BLOCK END -->
+    <!-- THREE COLUMN BLOCK -->
+    <!-- THREE COLUMN BLOCK END -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#180EC2" border-width="2px" padding="0px 0 0px"/>
+      </mj-column>
+    </mj-section>
+    <!-- SURRENNE -->
+    <!-- SURRENNE END -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="20px" padding-bottom="0px">
+          Please note that a charge, equivalent to the rate on the first night, is applicable. If you have any questions, need further information or require assistanc with any futute reservations, please send us an email via 
+          <a href="mailto:reservations@the-emory.co.uk" style="color:#020301; text-decoration:underline;">reservations@the-emory.co.uk</a>.
+          <br>
+          <br>I am pleased to advise that no changes have been incurred on the above cancellation. If you have any questions, need further information or require assistance with any future reservations, please send us an email via 
+          <a href="mailto:reservations@the-emory.co.uk" style="color:#020301; text-decoration:underline;">reservations@the-emory.co.uk</a>.
+          <br>
+          <br>Kind regards,
+          <br>
+          <br>The Reservations Team
+          <br>
+          The Emory
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#180EC2" border-width="2px" padding="20px 0 10px"/>
+      </mj-column>
+    </mj-section>
+    <!--SOCIAL ICONS -->
+    <mj-section>
+      <mj-column vertical-align="bottom">
+        <mj-social padding="10px 0 20px">
+          <mj-social-element src="https://images.tcgms.net/assets/l32737d32i00/media/images/51e7bcba-0351-4dfc-a9e7-3c3d23c5b007.png" padding="0 10px" name="facebook-noshare/" alt="Facebook" icon-size="25px" border-radius="0" href="#">
+          </mj-social-element>
+          <mj-social-element src="https://images.tcgms.net/assets/l32737d32i00/media/images/7372cfb9-9cbe-4c80-87d4-c46572ed563a.png" padding="0 10px" name="Twitter" alt="Twitter" icon-size="25px" border-radius="0" href="#">
+          </mj-social-element>
+          <mj-social-element src="https://images.tcgms.net/assets/l32737d32i00/media/images/b3ba929d-bb6c-45d1-996d-59bcf5ae437d.png" padding="0 10px" name="Instagram" alt="Instagram" icon-size="25px" border-radius="0" href="#">
+          </mj-social-element>
+          <mj-social-element src="https://images.tcgms.net/assets/l32737d32i00/media/images/00ba860a-5abb-410f-aec1-59e673f5298c.png" padding="0 10px" name="TripAdvisor" alt="TripAdvisor" icon-size="30px" border-radius="0" href="#">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- FOOTER -->
+    <mj-section background-color="#000000" padding-bottom="10px">
+      <mj-column>
+        <mj-image alt="The Emory logo" padding="20px" width="180px" src="https://images.tcgms.net/assets/l32737d32i00/media/images/a358aeaa-6344-4fff-9541-6bc04a1e7ee7.jpg"/>
+        <mj-text padding-top="0px" color="#ffffff" align="center">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2801201" style="color:#ffffff; text-decoration:none;" target="_blank">The Emory, Old Barrack Yard, Belgravia, London, SW1X 7NP</a>
+        </mj-text>
+        <mj-text color="#ffffff" align="center">
+          <a href="" style="color:#ffffff; text-decoration:none;">Reservations Number</a>
+        </mj-text>
+        <mj-text padding-top="0px" color="#ffffff" align="center">
+          <a href="tel:" style="color:#ffffff; text-decoration:none;">Main Number</a>
+        </mj-text>
+        <mj-text padding-top="0px" color="#ffffff" align="center">
+          <a href="https://tcgms.net/cgi-bin/unsub.cgi?mid=@@MID64@@" target="_blank" style="color:#ffffff; text-decoration:underline;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- FOOTER END -->
+  </mj-body>
+</mjml>

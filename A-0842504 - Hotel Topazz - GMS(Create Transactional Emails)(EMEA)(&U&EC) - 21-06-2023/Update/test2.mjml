@@ -1,0 +1,341 @@
+<mjml>
+  <mj-head>
+    <mj-title>The Leo Grand Vienna
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-font name="Jost" href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"/>
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"/>
+    <mj-style>
+      @media (max-width: 595px) {
+      div{
+      text-align: center !important;
+      }
+      .btn table,
+      .header-logo table{
+      margin:0 auto!important;
+      }
+      a.mj-link {
+      display: block !important;
+      text-align: center !important;
+      padding-top:10px !important;
+      }
+      td, table{
+      border:none!important;
+      }
+      .remove-pd td,
+      td.res-ttbl-title {
+      padding-top: 0px !important;
+      }
+      .mob-add-pd{
+      padding-top: 20px !important;
+      }
+      td.col-image table {
+      width: 100% !important;
+      }
+      td.pd-btm div,
+      td.btn {
+      padding-bottom: 20px !important;
+      }
+      .col-des div{
+      height:5%!important;
+      }
+      td.pad-im-mob{padding-top:20px !important}
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="center" color="#555">
+      </mj-text>
+      <mj-section background-color="#fff">
+      </mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!--view in Browser-->
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-text padding="0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2491992/%20@@MID64@@" target="_blank" style="text-decoration:none;color:#183254;">
+            View in Browser
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Header section-->
+    <mj-section padding="0px 20px 20px">
+      <mj-column width="35%" vertical-align="middle">
+        <mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/TLG_SCHWARZ_CLAIM@2x.png" width="100px" height="auto" alt="The Leo Grand Logo" padding="0px" href="http://tcgms.net/tr/c/@@MID@@/2494405" target="_blank" align="left" css-class="header-logo"/>
+      </mj-column>
+      <mj-column width="65%" vertical-align="middle">
+        <mj-navbar align="right">
+          <mj-navbar-link href="https://tcgms.net/tr/c/@@MID@@/2503977" color="#183254" padding="0px 8px" font-family="'Jost', sans-serif;" font-size="13px" text-transform="uppercase" font-weight="bold">HOTEL
+          </mj-navbar-link>
+          <mj-navbar-link href="https://tcgms.net/tr/c/@@MID@@/2503959" color="#183254" padding="0px 8px" font-family="'Jost', sans-serif;" font-size="13px" text-transform="uppercase" font-weight="bold">RESTAURANT
+          </mj-navbar-link>
+          <mj-navbar-link href="https://tcgms.net/tr/c/@@MID@@/2503993" color="#183254" padding="0px 0px 0px 8px" font-family="'Jost', sans-serif;" font-size="13px" text-transform="uppercase" font-weight="bold">NEIGHBORHOOD
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!--Banner Section-->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/imageonline-co-placeholder-image_(1).jpg" width="600px" height="auto" alt="Dummy banner image" padding="0px"/>
+      </mj-column>
+    </mj-section>
+    <!--Body Section-->
+    <mj-section padding="20px" background-color="#dbcdd2">
+      <mj-column background-color="#ffffff">
+        <mj-text padding="20px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+          @@rsfname@@ @@rslname@@ 
+        </mj-text>
+        <mj-text padding="20px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper consectetur erat a tincidunt. Sed porttitor nulla ac venenatis ullamcorper. Proin posuere velit porttitor tristique rhoncus. Aliquam vel ex sit amet sem viverra facilisis.
+        </mj-text>
+        <mj-text padding="20px 20px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+          Sincerely, 
+          <br> Name of Representaive, Title of Representaive
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Section Title-->
+    <mj-section padding="30px 20px 0px">
+      <mj-column background-color="#ffffff">
+        <mj-text padding="0px" font-family="'Raleway', sans-serif" font-size="30px" color="#183254" line-height="1.5" font-style="italic" font-weight="500">
+          <span style="font-style: normal;">
+            Reservation Details
+          </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Reservation Details-->
+    <mj-wrapper padding="0px 20px" background-color="#ffffff">
+      <mj-section padding="20px 0px 0px" border-bottom="1px solid #a7b5b9">
+        <mj-column width="50%" border-right="1px solid #a7b5b9">
+          <mj-text padding="15px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" css-class="res-ttbl-title">
+            Guest Name
+          </mj-text>
+          <mj-text padding="0px 0px 15px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+            @@rsfname@@ @@rslname@@
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text padding="15px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" css-class="res-ttbl-title">
+            Reservation Number
+          </mj-text>
+          <mj-text padding="0px 0px 15px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+            @@reservation_number@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0px 0px" border-bottom="1px solid #a7b5b9">
+        <mj-column>
+          <mj-text padding="15px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" css-class="res-ttbl-title">
+            Stay dates
+          </mj-text>
+          <mj-text padding="0px 0px 15px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+            @@stay_dates@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0px 0px" border-bottom="1px solid #a7b5b9">
+        <mj-column width="25%" border-right="1px solid #a7b5b9">
+          <mj-text padding="15px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" css-class="res-ttbl-title">
+            Check-in
+          </mj-text>
+          <mj-text padding="0px 0px 15px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+            <a style="color:#183254;">@@checkin_time@@</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%" border-right="1px solid #a7b5b9">
+          <mj-text padding="15px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" css-class="res-ttbl-title">
+            check-out
+          </mj-text>
+          <mj-text padding="0px 0px 15px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+            <a style="color:#183254;">@@checkout_time@@</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text padding="15px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" css-class="res-ttbl-title">
+            Room type
+          </mj-text>
+          <mj-text padding="0px 0px 15px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+            @@room_type@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0px 0px" border-bottom="1px solid #a7b5b9">
+        <mj-column width="50%" border-right="1px solid #a7b5b9">
+          <mj-text padding="15px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" css-class="res-ttbl-title">
+            Average nightly rate
+          </mj-text>
+          <mj-text padding="0px 0px 15px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+            @@nightly_rate_table@@
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text padding="15px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" css-class="res-ttbl-title">
+            Estimated total
+          </mj-text>
+          <mj-text padding="0px 0px 15px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+            @@estimated_total@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="20px 0px 30px" css-class="remove-pd">
+        <mj-column>
+          <mj-text padding="0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold">
+            special requests/other info section here
+          </mj-text>
+          <mj-text padding="0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" css-class="pd-btm">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper consectetur erat a tincidunt. Sed porttitor nulla ac venenatis ullamcorper. Proin posuere velit porttitor tristique rhoncus. Aliquam vel ex sit amet sem viverra facilisis.
+          </mj-text>
+          <mj-button text-transform="uppercase" padding="20px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" background-color="#ffffff" line-height="1.3" font-weight="bold" href="#" inner-padding="5px 20px">
+            Add to calendar
+          </mj-button>
+          <mj-button text-transform="uppercase" padding="0px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" background-color="#ffffff" line-height="1.3" font-weight="bold" href="#" inner-padding="5px 20px">
+            Modify/cancel reservation
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!--Two column Section-->
+      <mj-section background-color="#dbcdd2" padding="0px">
+        <mj-column width="50%">
+          <mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/imageonline-co-placeholder-image_(2).jpg" width="270px" height="auto" padding="0px" alt="Dummy image" align="left" css-class="col-image"/>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text padding="20px 20px 10px" font-family="'Jost', sans-serif;" font-size="16px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" align="left">
+            Callout title
+          </mj-text>
+          <mj-text padding="0px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" align="left">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper consectetur erat a tincidunt. Sed porttitor nulla ac venenatis ullamcorper. Proin posuere velit porttitor tristique rhoncus.
+          </mj-text>
+          <mj-button text-transform="uppercase" padding="20px 20px 20px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.3" font-weight="bold" href="#" inner-padding="10px 20px" background-color="#ea4e96" border-radius="0px" align="left" css-class="btn">
+            Book now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="20px 0px">
+        <mj-column width="48%" background-color="#dbcdd2">
+          <mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/imageonline-co-placeholder-image_(3).jpg" width="280px" height="auto" padding="0px" alt="Dummy image" css-class="col-image"/>
+          <mj-text padding="20px 20px 10px" font-family="'Jost', sans-serif;" font-size="16px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold">
+            Callout title
+          </mj-text>
+          <mj-text padding="0px 20px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" height="60px" css-class="col-des">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </mj-text>
+          <mj-button text-transform="uppercase" padding="20px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.3" font-weight="bold" href="#" inner-padding="10px 20px" background-color="#ea4e96" border-radius="0px" css-class="btn">
+            Book now
+          </mj-button>
+        </mj-column>
+        <mj-column width="4%" css-class="mob-add-pd">
+        </mj-column>
+        <mj-column width="48%" background-color="#dbcdd2">
+          <mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/imageonline-co-placeholder-image_(3).jpg" width="280px" height="auto" padding="0px" alt="Dummy image" css-class="col-image"/>
+          <mj-text padding="20px 20px 10px" font-family="'Jost', sans-serif;" font-size="16px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold">
+            Callout title
+          </mj-text>
+          <mj-text padding="0px 20px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" height="60px" css-class="col-des">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper consectetur erat a tincidunt.
+          </mj-text>
+          <mj-button text-transform="uppercase" padding="20px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.3" font-weight="bold" href="#" inner-padding="10px 20px" background-color="#ea4e96" border-radius="0px" css-class="btn">
+            Book now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!--2 col text left, img right -->
+    <mj-wrapper background-color="#dbcdd2" padding="20px">
+      <mj-section background-color="#ffffff" padding="0px" direction="rtl">
+        <mj-column width="50%" background-color="#ffffff">
+          <mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/imageonline-co-placeholder-image_(2).jpg" width="280px" height="auto" padding="0px" alt="Dummy image" align="left" css-class="col-image"/>
+        </mj-column>
+        <mj-column width="50%" background-color="#ffffff">
+          <mj-text padding="20px 20px 10px" font-family="'Jost', sans-serif;" font-size="16px" color="#183254" line-height="1.5" text-transform="uppercase" font-weight="bold" align="left">
+            Callout title
+          </mj-text>
+          <mj-text padding="0px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" align="left">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper consectetur erat a tincidunt. Sed porttitor nulla ac venenatis ullamcorper. Proin posuere velit porttitor tristique rhoncus.
+          </mj-text>
+          <mj-button text-transform="uppercase" padding="20px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.3" font-weight="bold" href="#" inner-padding="10px 20px" background-color="#ea4e96" border-radius="0px" align="left" css-class="btn">
+            Book now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!--Section Title-->
+    <mj-section padding="20px 0px 0px">
+      <mj-column background-color="#ffffff">
+        <mj-text padding="0px" font-family="'Raleway', sans-serif" font-size="30px" color="#183254" line-height="1.5" font-style="italic" font-weight="500">
+          <span style="font-style: normal;">
+            Content Title
+          </span>
+        </mj-text>
+        <mj-text padding="20px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+          <b>Run-In Text:
+          </b> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper consectetur erat a tincidunt. Sed porttitor nulla ac venenatis ullamcorper. 
+        </mj-text>
+        <mj-text padding="20px 20px 0px" font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5">
+          <b>Run-In Text:
+          </b> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper consectetur erat a tincidunt. Sed porttitor nulla ac venenatis ullamcorper. 
+        </mj-text>
+      </mj-column></mj-section>
+      <mj-section padding="20px 0px 0px">
+       <mj-column vertical-align="middle">
+      	<mj-image css-class="mob-size" padding="0" src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/UNTERNEHMENSGRUPPE_LENIKUS_Logo_scharz-wei_1.png" width="100px" href="#"></mj-image>
+      </mj-column>  
+      <mj-column vertical-align="middle">
+      	<mj-image css-class="pad-im-mob mob-size" padding="0" src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/LENIKUS_Hotels_NEU_Schwarz.png" width="100px" href="#"></mj-image>
+      </mj-column> 
+      <mj-column vertical-align="middle">
+      	<mj-image css-class="pad-im-mob mob-size" padding="0" src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/BWGL_Logo_Schwarz.png" width="100px" href="#"></mj-image>
+      </mj-column> 
+      <mj-column vertical-align="middle">
+      	<mj-image css-class="pad-im-mob mob-size" padding="0" src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/Logo_Doppellogo_Lamée_Rooftop_Minibar_SCHW.png" width="100px" href="#"></mj-image>
+      </mj-column> 
+      <mj-column vertical-align="middle">
+      	<mj-image css-class="pad-im-mob mob-size" padding="0" src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/Samm_Lenikus_Logo_Schwarz.png" width="100px" href="#"></mj-image>
+      </mj-column> 
+    </mj-section>
+         <mj-section padding="0px 0px 0px">
+           <mj-column>
+        <mj-divider border-width="1px" border-color="#a7b5b9" padding="20px 20px 0px"/>
+        <mj-social mode="horizontal" border-radius="0px" padding="20px 20px 0px" css-class="social">
+          <mj-social-element alt="Facebook" icon-size="24px" padding="0px 8px" href="http://tcgms.net/tr/c/@@MID@@/2494406" target="_blank" src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/facebook-app-symbol_(1)_(1)_(2).png">
+          </mj-social-element>
+          <mj-social-element icon-size="24px" padding="0px 8px" href="http://tcgms.net/tr/c/@@MID@@/2494407" alt="Instagram" target="_blank" src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/instagram_(3)_(3)_(1).png">  
+          </mj-social-element>
+        </mj-social>
+        <mj-divider border-width="1px" border-color="#a7b5b9" padding="20px 20px 0px"/>
+      </mj-column>
+    </mj-section>
+      
+    <mj-section padding="0px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" padding="20px 10px 0px">
+          <span style="font-weight:bold;text-transform:uppercase;">Phone</span>
+          <br/>
+          <a href="tel:+43190606" style="text-decoration:none;color:#183254;">
+            +43 1 90 606</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" padding="20px 10px 0px">
+          <span style="font-weight:bold;text-transform:uppercase;">Address</span>
+          <br>Bauernmarkt 1
+          <div/>
+            <a href="http://tcgms.net/tr/c/@@MID@@/2494408" target="_blank" style="text-decoration:none;color:#183254;">1010 Vienna | Austria </a>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="'Jost', sans-serif;" font-size="13px" color="#183254" line-height="1.5" padding="20px 10px 0px">
+          <span style="font-weight:bold;text-transform:uppercase;">Email</span>
+          <br>
+          <a href="mailto:reception@theleogrand.com" style="text-decoration:none;color:#183254;">reception@theleogrand.com</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+        
+  </mj-body>
+</mjml>

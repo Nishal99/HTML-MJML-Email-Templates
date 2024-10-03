@@ -1,0 +1,221 @@
+<mjml>
+  <mj-head>
+    <mj-title>CoolRooms Palacio de Atocha – Booking confirmation
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-breakpoint width="595px">
+    </mj-breakpoint>
+    <mj-style>
+      @media (max-width: 595px) {
+      div.banner-sec-pad td{padding:20px !important;}
+      .navbar-link-mobile-fix {
+      padding-left:20px!important;
+      padding-right:20px!important;
+      }
+      .navbar-link-mobile-pdn {
+      padding-bottom:10px!important;
+      }
+      .navbar-link-erase{
+      display:block!important;
+      }
+      .mobile-block {
+      display:block!important;
+      }
+      div.sec-pad-mob td{padding:20px 0px 10px !important;}
+      div.sec-pad-mob td td{padding:0px 0px 0px !important;}
+      td.heading-sec-mob div{text-align:left !important;}
+      }
+      .navbar-link-erase{
+      display:none;
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="13px" line-height="150%" color="#222835" padding="20px 20px 0px">
+      </mj-text>
+      <mj-section padding="0px" background-color="#fff">
+      </mj-section>
+      <mj-button border-radius="0px" text-transform="uppercase" font-size="13px" font-family="Arial, sans-serif" color="#ffffff" background-color="#0085A2" inner-padding="10px 15px" align="center" href="#">
+      </mj-button>
+      <mj-navbar-link font-family="Arial, sans-serif" letter-spacing="1px" line-height="130%" padding="0px 20px">
+      </mj-navbar-link>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!--View in Browser-->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-size="11px" line-height="150%" color="#5ea1ad" padding="10px" align="center">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2801155/%20@@MID64@@" target="_blank" style="color:#5ea1ad; text-decoration:none;"> View in Browser </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>    
+    <!--Banner image-->
+    <mj-section >
+      <mj-column >
+        <mj-image href="https://coolrooms.com/en/" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/a0dc426f-c9a2-44f2-9553-a8068b0c5aac.png" width="100px" height="auto" alt="dummy image" padding="0px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      	<mj-column>
+        	<mj-text letter-spacing="4px" align="center" font-size="18px" font-weight="bold">COOL GIFT GUIDE</mj-text>
+          <mj-text letter-spacing="2px" align="center" font-size="12px" padding="0px 20px">MOTHER'S DAY SPECIAL</mj-text>
+          <mj-image href="https://coolrooms.com/en/" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/252808bc-276e-488b-a176-b0b6607b0917.png" alt="dummy image" padding="20px 0 0px"/>
+        </mj-column>
+      </mj-section>
+    <!--Body text-->
+    <mj-section background-color="#E5E4DF" padding="10px 0px" css-class="sec-pad-mob">
+      <mj-column>
+        <mj-navbar ico-color="#222835" padding="0px 5px 0px">
+          <mj-navbar-link letter-spacing="2px" href="https://coolrooms.com/en/" color="#222835" target="_blank" css-class="mobile-block navbar-link-mobile-fix navbar-link-mobile-pdn">
+            MADRID
+          </mj-navbar-link>
+          <mj-navbar-link letter-spacing="2px" href="https://coolrooms.com/en/" color="#222835" target="_blank" css-class="mobile-block navbar-link-mobile-fix navbar-link-mobile-pdn">
+            ASTURIAS
+          </mj-navbar-link>
+          <mj-navbar-link letter-spacing="2px" href="https://coolrooms.com/en/" color="#222835" target="_blank" css-class="mobile-block navbar-link-mobile-fix navbar-link-mobile-pdn">
+            SEVILLE
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!--Details-->
+   <!--Two column 1-->
+    <mj-section padding="20px 10px 0">
+      <mj-column vertical-align="middle">
+       <mj-image href="https://coolrooms.com/palaciodeatocha/en/vouchers/" fluid-on-mobile="true" alt="dummy image" padding="10px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+     		<mj-text line-height="130%" padding-top="10px" padding-bottom="0px" font-size="22px" font-weight="bold">1.<br/>
+        THE ESCAPEE MUM<br/> IN MADRID</mj-text>
+        <mj-text padding-top="10px" padding-bottom="10px">This glamour stay is the perfect gift to spoil your lovely mum for everything she does for you and to thank her in style! The stay includes a <a style="color:#222835; text-decoration:none;">2-night</a> luxury stay in Junior Suite room with breakfast, and beauty treatment in room!</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 1-->
+    <!--Two column 2-->
+    <mj-section direction="rtl" padding="0 10px 10px">
+      <mj-column vertical-align="middle">
+        <mj-button href="https://coolrooms.com/palaciodeatocha/en/vouchers/" background-color="#000000" font-size="16px" width="150px" padding="10px 10px 0" inner-padding="10px 10px">BOOK NOW</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 2-->
+    <!--Two column 3-->
+    <mj-section direction="rtl" padding="10px 10px 0">
+      <mj-column vertical-align="middle">
+       <mj-image href="https://coolrooms.com/palaciodeluces/en/vouchers/" fluid-on-mobile="true" alt="dummy image" padding="10px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+     		<mj-text css-class="heading-sec-mob" align="right" line-height="130%" padding-top="10px" padding-bottom="0px" font-size="22px" font-weight="bold">2.<br/>
+        THE NATURE LOVER MUM IN ASTURIAS</mj-text>
+        <mj-text padding-top="10px" padding-bottom="10px">We cannot think of a better option to thank your mum for being the best! Invite her to discover the North of Spain and especially Asturias, an under-the-radar destination. The stay includes a <a style="color:#222835; text-decoration:none;">2-night</a> luxury stay in Junior Suite room with breakfast, and a 10km trekking in the heart of the European Peaks.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 3-->
+    <mj-section direction="rtl" padding="0 10px 10px">
+      <mj-column vertical-align="middle">
+        <mj-button href="https://coolrooms.com/palaciodeluces/en/vouchers/" background-color="#000000" font-size="16px" width="150px" padding="10px 10px 0" inner-padding="10px 10px">BOOK NOW</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Two column 1-->
+    <mj-section padding="10px 10px 0">
+      <mj-column vertical-align="middle">
+       <mj-image href="https://coolrooms.com/palaciovillapanes/en/vouchers/" fluid-on-mobile="true" alt="dummy image" padding="10px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+     		<mj-text line-height="130%" padding-top="10px" padding-bottom="0px" font-size="22px" font-weight="bold">3.<br/>
+        THE SOUL SEEKER <BR/>MUM IN SEVILLE</mj-text>
+        <mj-text padding-top="10px" padding-bottom="10px">This glamour stay is the perfect gift to spoil your lovely mum for everything she does for you and to thank her in style! The stay includes a <a style="color:#222835; text-decoration:none;">2-night</a> luxury stay in Premium room with breakfast, and beauty treatment in our spa.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 1-->
+    <!--Two column 2-->
+    <mj-section direction="rtl" padding="0 10px 10px">
+      <mj-column vertical-align="middle">
+        <mj-button href="https://coolrooms.com/palaciovillapanes/en/vouchers/" background-color="#000000" font-size="16px" width="150px" padding="10px 10px" inner-padding="10px 10px">BOOK NOW</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 2-->
+    <!--divider-->
+    <mj-section padding="0 20px">
+      <mj-column vertical-align="middle">
+       
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px" >
+      <mj-column vertical-align="middle">
+       <mj-divider border-color="#222835" border-width="1px" padding="10px 0px 20px 0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    
+    <mj-wrapper  padding="10px 20px 20px">
+    <mj-section background-url="https://images.tcgms.net/assets/81ct15y16314400/media/images/252808bc-276e-488b-a176-b0b6607b0917.png" background-size="cover"
+              background-repeat="no-repeat">
+      <mj-column >
+        <mj-text font-size="18px" align="center" color="#ffffff" padding="20px 20px 20px">VOTE FOR COOLROOMS PALACIO DE LUCES <br/> CATEGORY <b>NATIONAL GATAWAY HOTEL.</b></mj-text>
+       <mj-image href="https://labs.traveler.es/widget/promos/premios-conde-nast-traveler-23" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/c6cad141-cd46-4b16-a61f-7f118796984b.png" width="100px" height="auto" alt="dummy image" padding="0px"/>
+        <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/5101f6ef-271d-45a9-b59d-660a6adc61a3.png" width="80px" height="auto" alt="dummy image" padding="20px 0px 0"/>
+        <mj-text color="#ffffff" align="center" padding="20px 20px">If you enjoyed a happy experience at <br/><b>CoolRooms Palacio de Luces Asturias</b> palace,<br/>
+          click and let us know by voting in the <br/>
+          <a target="_blank" href="https://labs.traveler.es/widget/promos/premios-conde-nast-traveler-23" style="color:#ffffff; text-decoration:underline">National Gataway Hotel</a> category.</mj-text>
+      </mj-column>
+    </mj-section>
+      
+      </mj-wrapper>
+    <mj-section padding="0px">
+      	<mj-column>
+        	
+          <mj-image href="https://labs.traveler.es/promos/premios-conde-nast-traveler-23/participations/new" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/252808bc-276e-488b-a176-b0b6607b0917.png" alt="dummy image" padding="0px 0 0px"/>
+        </mj-column>
+      </mj-section>
+    
+    
+    
+    
+    <!--4 column-->
+    
+    <!--4 column end-->
+    <mj-section padding="0 20px">
+      <mj-column vertical-align="middle">
+       
+      </mj-column>
+    </mj-section>
+    <!--footer-->
+    <mj-section background-color="#E5E4DF" padding="20px 0 20px">
+      <mj-column>
+         <mj-social mode="horizontal" border-radius="0px" icon-height="24px" padding="0px" css-class="social_tbl">
+          <mj-social-element alt="facebook-icon" href="http://tcgms.net/tr/c/@@MID@@/2805321" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/f0a244cc-967a-43fe-89af-4fe0078f95cd.png">
+          </mj-social-element>
+          <mj-social-element alt="instagram-icon" href="http://tcgms.net/tr/c/@@MID@@/2805322" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/66ed180c-32a4-4013-89d6-a84a832a7f18.png">
+          </mj-social-element>
+          <mj-social-element alt="youtube-icon" href="http://tcgms.net/tr/c/@@MID@@/2805323" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/4bc0df37-8d5b-4b58-aca3-6ba98507e6d0.png">
+          </mj-social-element>
+          <mj-social-element alt="linkedin-icon" href="http://tcgms.net/tr/c/@@MID@@/2805324" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/44125583-6e2d-402f-9042-2ae3dfa8b3ea.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#E5E4DF" padding="0 20px">
+      <mj-column vertical-align="middle">
+       
+        <mj-text font-size="11px" align="center" color="#5ea1ad" padding="0px 20px 0px"><a href="https://app.guezzt.com/unsubscribe?profileId=UHJvZmlsZTo2MzJjM2MxNGVmOWFjNjAwMTQ2YTIzZTA=&companyId=Q29tcGFueTo1ZTZmMzExY2M4ZGI0MjAwMWFjNTg3NDE=&token=$2a$04$70cdE1C9HR.JfJIr5sIAKOZl5Hp2tFCyDMovtq87zvmZUzBRZYUOy&campaignId=Q2FtcGFpZ246NjMyOWQzNWMyNzdjNTUwMDEzZTdhMzMz" style="color:#5ea1ad;text-decoration:none;" target="_blank">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#E5E4DF" padding="20px">
+    	<mj-section background-color="#E5E4DF" border="1px solid #222835" padding="20px">
+      	<mj-column>
+        	<mj-text letter-spacing="2px" align="center" padding="0px 20px"><b>GET OUR LATEST NEWS</b></mj-text>
+          <mj-text font-size="10px" align="center" padding="0px 20px">THE LUXURY OF BEING COOL<br/><br/>
+          <a target="_blank" href="https://coolrooms.com/en/" style="color:#222835; text-decoration:none; font-weight:bold;">www.coolrooms.com</a> <br/>
+            &#169; | <a style="color:#222835; text-decoration:none;">CoolRooms Hotels</a><br/>
+          </mj-text>
+          <mj-text line-height="100%" font-size="10px" align="center" padding="0px 20px">Nuestro correo es: <a href="mailto:social@coolrooms.com" style="color:#222835; text-decoration:none;">social@coolrooms.com</a><br/>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

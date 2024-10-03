@@ -1,0 +1,339 @@
+<mjml>
+  <mj-head>
+    <mj-title>Your reservation @@confirmation_number@@ at Nils am See
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-breakpoint width="595px">
+    </mj-breakpoint>
+    <mj-font name="Italiana" href="https://fonts.googleapis.com/css2?family=Italiana&display=swap;"/>
+    <mj-font name="Josefin Sans" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap;"/>
+    <mj-style>
+      @media(max-width:595px){
+      .ftr-contact div, .icon-align-center{
+      text-align:center !important;
+      }     
+      .icon-align-center{
+      padding-bottom:0px!important
+      }      
+      .mob-sec1 td{
+      padding-left:0px!important;
+      padding-right:0px!important;
+      }
+      .mob-sec1 td td{
+      padding-left:20px!important;
+      padding-right:20px!important;
+      }      
+      .resveration-td{
+      width: 100% !important;
+      }
+      .resveration-value-td{
+      width: 100% !important;
+      }
+      .resveration-tr{
+      display:flex !important;
+      flex-wrap: wrap;
+      }
+      .hide-column{
+      display: none !important;
+      }
+      .mobile-erase {
+      display:none!important;
+      }
+      .mobile-block {
+      display:block!important;
+      }
+      }     
+    </mj-style>
+    <mj-style inline="inline">
+      .outlook-lh div{
+      mso-line-height-alt:100%;
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="center" color="#05334B" padding="0px" font-family="Josefin Sans, sans-serif" line-height="150%" font-size="13px">
+      </mj-text>
+      <mj-section background-color="#fff" padding="0px">
+      </mj-section>
+      <mj-class name="resveration-td" align="left" text-transform="uppercase" line-height="150%" vertical-align="top" font-weight="bold" padding="3px">
+      </mj-class>
+      <mj-class name="resveration-value-td" align="left" line-height="150%" vertical-align="top" padding="3px 3px 9px">
+      </mj-class>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="20px 10px">
+      <mj-column>
+        <mj-text font-size="11px">
+          See this message in the browser by clicking
+          <a href="http://tcgms.net/tr/c/@@MID@@/2268470/%20@@MID64@@" style="color:#05334B; text-decoration: underline;" target="_blank">
+            here</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Here is the section containing the main banner image -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/246y4bm4dk46t00/media/images/Nils_Banner_Confirmation.jpg" href="http://tcgms.net/tr/c/@@MID@@/2268548" alt="Image of guests relaxing at the sea near Nils Am See" padding="0px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-social icon-size="24px" mode="horizontal" padding="20px" align="right" css-class="icon-align-center">
+          <mj-social-element src="https://images.tcgms.net/assets/246y4bm4dk46t00/media/images/NILS_Facebook_01-25.png" background-color="#FFFFFF" padding="0px 3px" href="http://tcgms.net/tr/c/@@MID@@/2268549" alt="Facebook logo">  
+          </mj-social-element>
+          <mj-social-element src="https://images.tcgms.net/assets/246y4bm4dk46t00/media/images/NILS_Instagram_01-25.png" alt="instagram logo" background-color="#FFFFFF" padding="0px 3px" href="http://tcgms.net/tr/c/@@MID@@/2268550">   
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" align="left" padding="20px 20px 0px">           
+          Dear @@rsfname@@ @@rslname@@,  
+        </mj-text>
+        <mj-text padding="20px 20px 0px" align="left">We are delighted that you have chosen to stay at our boutique hotel NILS am See and we thank you for your reservation.
+          <br>
+          <br>
+          We invite you to begin planning your stay with us. To help you relax take a turn in our 20 meter outdoor pool or visit our small wellness-area with Sauna and relaxation room. On our website you can find all the information needed to book the offered activities of your choice.
+          <br>
+          <br>
+          To simplify your arrival, we would kindly ask you to let us know the data of your fellow travelers and your estimated time of arrival. Feel free to email us directly to the following email address: 
+          <a href="mailto:reservations@nilsamsee.at?subject=Travelers%20data%20and%20estimated%20time%20of%20arrival" style="color: rgb(234, 187, 33);">reservations@nilamsee.at
+          </a>
+          <br>
+          <br>
+          To check in, we can offer the comfort of your mobile phone, our kiosk in the reception area or with our team of hosts at the reception.
+        </mj-text>
+        <mj-text padding="20px 20px 0px" align="left">Your code for unlimited access to the hotel building will be sent to you in a separate email.
+          <br>
+          This code will be activated for your room after a successful check-in on the day of arrival.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--RESERVATION DETAILS--->
+    <mj-section padding="20px 15px 20px" css-class="mob-sec1">
+      <mj-column background-color="#05334B">
+        <mj-text font-size="14px" align="left" color="#FFFFFF" padding="10px 10px 8px" css-class="outlook-lh"> 
+          RESERVATION DETAILS 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">
+          RESERVATION NUMBER
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          @@confirmation_number@@
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">NAME
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          @@rsfname@@ @@rslname@@
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">
+          number of people
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          <a style="text-decoration:none;color:#05334B;">
+            @@number_of_guests@@
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">
+          DURATION OF STAY
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          <a style="text-decoration:none;color:#05334B;">
+            @@length_of_stay@@
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">
+          ARRIVAL DATE
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          <a style="text-decoration:none;color:#05334B;">
+            @@check_in_date@@
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">
+          DEPARTURE DATE
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          <a style="text-decoration:none;color:#05334B;">
+            @@check_out_date@@
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">
+          INCLUSIONS
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          <a style="text-decoration:none;color:#05334B;">
+            @@packages_country@@
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">room category
+          <br>
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          <a style="text-decoration:none;color:#05334B;">
+            @@room_name@@
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">ROOM RATE
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2312821" style="cursor: auto; text-decoration-line: none; color: rgb(5, 51, 75);">@@show_tot_or_tbl_MRP@@</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">
+          TOTAL PRICE
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">@@total_room_charges_rs@@ €
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px">
+      <mj-column width="36%">
+        <mj-text font-weight="bold" mj-class="resveration-td">
+          cancellation policy
+        </mj-text>
+      </mj-column>
+      <mj-column width="64%">
+        <mj-text mj-class="resveration-value-td">
+          @@cancellation_policy_js@@
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Bottom text section -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding="10px 20px 10px" align="left">Our prices exclude city tax (EUR 2,50 per person per night over 18 years of age).
+          <br>
+          <br>
+          We are looking forward to welcoming you to our hotel and to the unique natural beauty of the Seepark Weiden. We wish you a pleasant journey.
+          <br>
+          <br>
+          With warm greetings from Weiden am See,
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Warm Regards section-->
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="13px" align="left" padding="0px 20px 20px">           
+          Your Nils am See-Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding="0px" background-color="#05334B">
+      <mj-section background-color="#05334B" padding="20px 20px 2px">
+        <mj-column>
+          <mj-text color="#fff">
+            <a href="http://tcgms.net/tr/c/@@MID@@/2268551" style="text-decoration: none; color: #F8F6EF;" target="_blank">
+              Seepark-Feriendorf 1, 7121 Gemeinde Weiden am See, Austria
+            </a>
+          </mj-text>
+          <mj-text color="#fff">
+            <a href="http://tcgms.net/tr/c/@@MID@@/2268548" style="text-decoration: none; color: #EABB21;" target="_blank">
+              https://www.nilsamsee.at/
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#05334B" padding="0px 20px 10px">
+        <mj-column>
+          <mj-text padding="0px 0px 5px" color="#fff">
+            <span class="mobile-block">
+              Reservations: 
+              <a href="tel:+43 2167 43434" style="text-decoration: none; color: #EABB21;">
+                +43 2167 43434
+              </a>
+            </span>
+            <span class="mobile-erase">
+              | 
+            </span>
+            <span class="mobile-block">
+              Main: 
+              <a href="tel:+43 2167 43434" style="text-decoration: none; color: #EABB21;">
+                +43 2167 43434
+              </a>
+            </span>
+            <span class="mobile-erase">
+              | 
+            </span>
+            <span class="mobile-block">
+              Email: 
+              <a href="mailto:reservations@nilsamsee.at" style="text-decoration: none; color: #EABB21;">
+                reservations@nilsamsee.at
+              </a>
+            </span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#05334B" padding="0px 20px 20px">
+        <mj-column>
+          <mj-text padding-bottom="5px" color="#fff" font-size="11px">
+            If you no longer wish to receive our emails, please 
+            <a href="https://tcgms.net/cgi-bin/unsub.cgi?mid=@@MID64@@" style="color:#EABB21;text-decoration:none;" target="_blank">unsubscribe</a> from our mailing list.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

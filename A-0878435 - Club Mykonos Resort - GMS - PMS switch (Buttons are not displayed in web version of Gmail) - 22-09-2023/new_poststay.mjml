@@ -1,0 +1,479 @@
+<mjml>
+  <mj-head>
+    <mj-title>Your recent stay at Club Mykonos
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"/>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"/>
+    <mj-style>
+      @media only screen and (max-width:595px) {
+      .preheader div {
+      text-align:center !important;
+      }
+      table.header-logo-wrapper {
+      margin:auto !important;
+      } 
+      img#logo {
+      width:100% !important;
+      } 
+      td.header-txt,
+      td.header-logo {
+      padding:10px 0px 15px 0px !important;
+      } 
+      td.header-txt,
+      td.header-logo {
+      display:block !important;
+      width:100% !important;
+      } 
+      td.header-txt {
+      font-size:22px !important;
+      line-height:26px !important;
+      text-align:center !important;
+      }
+      td.header-bg {
+      background-size:100% 100% !important;
+      background-repeat:no-repeat !important;
+      }
+      td.nav-btn-wrapper {
+      padding-top:8px !important;
+      padding-bottom:145px !important; 
+      } 
+      td.nav-btn {
+      padding:10px 2px !important; 
+      }
+      td.nav-btn table {
+      width:75px !important; 
+      } 
+      td.nav-btn table tbody tr td {
+      padding:2px 0px !important; 
+      } 
+      td.nav-btn table tbody tr td a {
+      font-size:9px !important;
+      line-height:15px !important;
+      } 
+      div.col-per-100 {
+      width:100% !important;
+      } 
+      div.footer-mob-no-h {
+      height:auto !important;
+      } 
+      } 
+    </mj-style>
+    <mj-raw>
+      <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+      <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+      <meta name="x-apple-disable-message-reformatting"/>
+    </mj-raw>
+     <mj-raw>
+      <!--[if mso]>
+<style type="text/css">
+table, td, div {mso-line-height-alt:107.7%;}
+</style>
+<![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body>
+    <!-- Pre-header start -->
+    <mj-section padding="0">
+      <mj-column padding="0" vertical-align="top">
+        <mj-text padding="0" align="right" font-size="12px" font-family="Helvetica, Verdana, Sans-serif;" color="#000000" css-class="preheader font-montserrat">
+          <span style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;">
+            Can't see this email? View it in your 
+            <a href="http://tcgms.net/tr/c/@@MID@@/1003813/%20@@MID64@@" style="text-decoration: none; color: #111111;font-weight: bold;">
+              &nbsp;browser.
+            </a>
+          </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Pre-header end -->
+    <!--Header start-->
+    <mj-section padding="0px">
+      <mj-column padding="0">
+        <mj-text padding="0">
+          <table style="padding:0;width: 100%;" cellspacing="0" cellpadding="0" border="0">
+            <tbody>
+              <tr>
+                <td class="header-logo" style="padding: 0px 0px 30px 0px;">
+                  <table class="header-logo-wrapper" role="presentation" style="padding:0;" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td style="padding:0;text-align:left;width:185px;">
+                          <div>
+                            <img alt="Logo" id="logo" src="http://images.zmaildirect.com/img/130SoV1JQGx3Q/images/Logo_Horizontal_240_x_65_px.jpg" style="outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;max-width:100%;border:0;display:block;width:100%;font-size:0px;" width="185" height="auto">
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+                <td class="header-txt font-montserrat" style="word-break:break-word;padding:0;font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;font-size:24px;line-height:26px;text-align:right;color:#004992;font-weight: bold;text-transform: uppercase;padding: 0px 0px 30px 20px;">
+                  Post Stay Letter
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Header end-->
+    <!-- Navigation bar section start-->
+    <mj-section padding="0px" background-url="https://images.tcgms.net/assets/u5cy62963o5aj00/media/images/Hero_Image_600_x_400_nw.jpg" background-repeat="no-repeat" background-size="100% 100%" css-class="header-bg">
+      <mj-column padding="0">
+        <mj-text padding="0">
+          <table role="presentation" style="padding:0;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+            <tbody>
+              <tr>
+                <td class="nav-btn-wrapper" style="padding:0;padding-top:20px;padding-bottom:250px;" align="center">
+                  <table role="presentation" style="padding:0;width:100%;margin:0px;" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tbody>
+                      <tr>
+                        <td style="padding:0;line-height:1.3;" width="4%">
+                          &nbsp;
+                        </td>
+                        <td class="nav-btn" style="padding:0;line-height:1.3;font-size:0px;padding:10px 0px;" align="center">
+                          <table style="padding:0;width: 100px;vertical-align: middle;margin:auto;" align="center">
+                            <tbody>
+                              <tr>
+                                <td style="border:none;border-radius:3px;cursor:auto;background:#00aff0;padding: 4px 0px;text-align: center;vertical-align: middle;margin: auto;line-height: 1;" bgcolor="#00aff0" align="center">
+                                  <a href="http://tcgms.net/tr/c/@@MID@@/938843" style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;background:#00aff0;color: #ffffff;text-decoration: none;font-size: 15px;vertical-align: middle;margin: auto;font-weight: 600;line-height: 1;text-transform: uppercase;" target="_blank">
+                                    Dining
+                                  </a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                        <td class="nav-btn" style="padding:0;line-height:1.3;font-size:0px;padding:10px 0px;" align="center">
+                          <table style="padding:0;width: 100px;vertical-align: middle;margin:auto;" align="center">
+                            <tbody>
+                              <tr>
+                                <td style="border:none;border-radius:3px;cursor:auto;background:#00aff0;padding: 4px 0px;text-align: center;vertical-align: middle;margin: auto;line-height: 1;" bgcolor="#00aff0" align="center">
+                                  <a href="http://tcgms.net/tr/c/@@MID@@/938844" style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;background:#00aff0;color: #ffffff;text-decoration: none;font-size: 15px;vertical-align: middle;margin: auto;font-weight: 600;line-height: 1;text-transform: uppercase;" target="_blank">
+                                    Activities
+                                  </a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                        <td class="nav-btn" style="padding:0;line-height:1.3;font-size:0px;padding:10px 0px;" align="center">
+                          <table style="padding:0;width: 100px;vertical-align: middle;margin:auto;" align="center">
+                            <tbody>
+                              <tr>
+                                <td style="border:none;border-radius:3px;cursor:auto;background:#00aff0;padding: 4px 0px;text-align: center;vertical-align: middle;margin: auto;line-height: 1;" bgcolor="#00aff0" align="center">
+                                  <a href="http://tcgms.net/tr/c/@@MID@@/938845" style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;background:#00aff0;color: #ffffff;text-decoration: none;font-size: 15px;vertical-align: middle;margin: auto;font-weight: 600;line-height: 1;text-transform: uppercase;" target="_blank">
+                                    Facilities
+                                  </a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                        <td class="nav-btn" style="padding:0;line-height:1.3;font-size:0px;padding:10px 0px;" align="center">
+                          <table style="padding:0;width: 100px;vertical-align: middle;margin:auto;" align="center">
+                            <tbody>
+                              <tr>
+                                <td style="border:none;border-radius:3px;cursor:auto;background:#00aff0;padding: 4px 0px;text-align: center;vertical-align: middle;margin: auto;line-height: 1;" bgcolor="#00aff0" align="center">
+                                  <a href="http://tcgms.net/tr/c/@@MID@@/938846" style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;background:#00aff0;color: #ffffff;text-decoration: none;font-size: 15px;vertical-align: middle;margin: auto;font-weight: 600;line-height: 1;text-transform: uppercase;" target="_blank">
+                                    Gallery
+                                  </a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                        <td style="padding:0;line-height:1.3;" width="4%">
+                          &nbsp;
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr> 
+            </tbody> 
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Navigation bar section end-->
+    <!-- Message section start-->
+    <mj-section padding="0px">
+      <mj-column padding="0">
+        <mj-text padding="0">
+          <div style="position: relative;">
+            <table style="padding:0;text-align:left;width: 100%;" cellspacing="0" cellpadding="0" border="0">
+              <tbody>
+                <tr>
+                  <td style="padding:30px 5px;font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;color:#111111;font-size: 14px; line-height: 18px;font-weight:500;">
+                    Dear @@rsfname@@ @@rslname@@,
+                    <br>
+                    <br> 
+                    Thank you for choosing Club Mykonos Langebaan for your recent stay.
+                    <br> 
+                    <br> 
+                    We sincerely hope you enjoyed your time with us - we certainly did! We would really value your opinion regarding your experiences with us and invite you to complete a short survey to share your feedback in order for us to enhance your future stays for our continuous quest for service excellence.
+                    <br> 
+                    <br> 
+                    We really look forward to welcoming you back soon!
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </mj-text>
+        
+                    <mj-button font-family="'Montserrat', Helvetica, Verdana, Sans-serif" color= "rgb(15, 99, 172)" background-color="#fff200" padding="0px 5px 30px" href="http://tcgms.net/tr/c/@@MID@@/1189639/%20@@rsemail@@" font-weight="bold" font-size="15px">
+          SHARE YOUR EXPERIENCE WITH US
+        </mj-button>
+       
+                    <mj-button font-family="'Montserrat', Helvetica, Verdana, Sans-serif" color= "rgb(15, 99, 172)" background-color="#fff200" padding="0px 5px 30px" href="http://tcgms.net/tr/c/@@MID@@/1130535" font-weight="bold" font-size="15px">
+          
+            BOOK AGAIN
+   
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Message section end-->
+    <mj-section padding="0px">
+      <mj-column padding="0">
+      </mj-column>
+    </mj-section>
+    <!-- Pre-Footer start --> <mj-wrapper padding="0px" background-color="#0084be">
+    <mj-section padding="0px" text-align="left" background-color="#0084be">
+      <mj-column width="100%" padding="0" vertical-align="top">
+        <mj-text padding="0">
+          <table style="background-color:#0084be;width:100%;" cellspacing="0" cellpadding="0" border="0" align="center">
+            <tbody>
+              <tr>
+                <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+                  <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                  <div style="margin:0px auto;max-width:600px;">
+                    <table style="border-spacing:0;border-collapse:collapse;padding:0;vertical-align:top;width:100%;" cellspacing="0" cellpadding="0" border="0" align="center">
+                      <tbody>
+                        <tr>
+                          <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+                            <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+                            <div class="col-per-100" style="font-size:0px;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                              <table style="border-spacing:0;border-collapse:collapse;padding:0;padding:0;vertical-align:top;text-align:left;vertical-align:top;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;padding:30px 30px;word-break:break-word;font-size:24px;font-weight:600;line-height:1;text-align:center;text-transform:uppercase;color:#FFF200;" align="center">
+                                      CLUB MYKONOS LANGEBAAN
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                            <!--[if mso | IE]></td></tr></table><![endif]-->
+                          </td> 
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <!--[if mso | IE]></td></tr></table></td></tr><tr><td class="" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                  <div style="margin:0px auto;max-width:600px;">
+                    <table style="border-spacing:0;border-collapse:collapse;padding:0;vertical-align:top;width:100%;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                      <tbody>
+                        <tr>
+                          <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+                            <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:300px;" ><![endif]-->
+                            <div class="col-per-100" style="font-size:0px;direction:ltr;display:inline-block;vertical-align:top;width:50%;">
+                              <table style="border-spacing:0;border-collapse:collapse;padding:0;vertical-align:top;vertical-align:top;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;padding:0px;word-break:break-word;font-size:14px;font-weight:600;line-height:1;text-align:center;text-transform:uppercase;color:#ffffff;" align="center">
+                                      SOCIAL
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td style="font-size:0px;padding:5px 0px 25px 0px;word-break:break-word;" align="center">
+                                      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td><![endif]-->
+                                      <div class="footer-mob-no-h" style="height:50px;">
+                                        <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td height="50px" style="vertical-align:top;height:50px;"><![endif]-->
+                                        <table style="border-spacing:0;border-collapse:collapse;padding:0;padding:0;vertical-align:top;text-align:left;" cellspacing="0" cellpadding="0" border="0" align="center">
+                                          <tbody>
+                                            <tr>
+                                              <td style="padding:0;">
+                                                <table style="border-radius:3px;width:40px;float:none;display:inline-table;vertical-align: middle;" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td style="font-size:0;height:40px;vertical-align:middle;width:40px;text-align: center;padding: 0px 4px;" height="40px">
+                                                        <a href="http://tcgms.net/tr/c/@@MID@@/1119791" target="_blank" style="color:#000000;text-decoration:none;">
+                                                          <img alt="youtube" src="http://images.zmaildirect.com/img/130SoV1JQGx3Q/images/youtube.png" style="o-ms-interpolation-mode:bicubic;border:none;border-radius:3px;display:block;max-width: 100% !important;;width:22px;margin:auto;" width="22" height="15">
+                                                        </a>
+                                                      </td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                                <!--[if mso | IE]></td><td><![endif]-->
+                                                <table style="border-radius:3px;width:40px;float:none;display:inline-table;vertical-align: middle;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                                  <tbody>
+                                                    <tr>
+                                                      <td style="font-size:0;height:40px;vertical-align:middle;width:40px;text-align: center;padding: 0px 4px;" height="40px">
+                                                        <a href="http://tcgms.net/tr/c/@@MID@@/1119792" target="_blank" style="color:#000000;text-decoration:none;">
+                                                          <img alt="instegram" src="http://images.zmaildirect.com/img/130SoV1JQGx3Q/images/insta.png" style="outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;border:none;border-radius:3px;display:block;max-width: 100% !important;;width:18px;margin:auto;" width="18" height="18">
+                                                        </a>
+                                                      </td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                                <!--[if mso | IE]></td><td><![endif]-->
+                                                <table style="border-radius:3px;width:35px;float:none;display:inline-table;vertical-align: middle;" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td style="font-size:0;height:40px;vertical-align:middle;width:40px;text-align: center;padding: 0px 4px;" height="40px">
+                                                        <a href="http://tcgms.net/tr/c/@@MID@@/1119793" target="_blank" style="color:#000000;text-decoration:none;">
+                                                          <img alt="facebook" src="http://images.zmaildirect.com/img/130SoV1JQGx3Q/images/fb.png" style="outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;border:none;border-radius:3px;display:block;max-width: 100% !important;;width:11px;margin:auto;" width="11" height="20">
+                                                        </a>
+                                                      </td> 
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                                <!--[if mso | IE]></td><td><![endif]-->
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-radius:3px;width:40px;float:none;display:inline-table;vertical-align: middle;">
+                                                  <tbody> 
+                                                    <tr>
+                                                      <td style="font-size:0;height:40px;vertical-align:middle;width:40px;text-align: center;padding: 0px 4px;" height="40px">
+                                                        <a href="http://tcgms.net/tr/c/@@MID@@/1119794" target="_blank" style="color:#0000FF;text-decoration:none;">
+                                                          <img alt="twitter" height="15" src="http://images.zmaildirect.com/img/130SoV1JQGx3Q/images/twitter.png" style="outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;max-width:100%;border:none;border-radius:3px;display:block;max-width: 100% !important;width:18.5px;margin:auto;" width="18.5">
+                                                        </a>
+                                                      </td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </div>
+                                      <!--[if mso | IE]></td></tr></table><![endif]-->
+                                      <!--[if mso | IE]></td></tr></table><![endif]-->
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;padding:0px;word-break:break-word;font-size:14px;font-weight:600;line-height:120%;text-align:center;text-transform:uppercase;color:#ffffff;" align="center">
+                                      PHONE
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td style="padding: 5px 0px 25px; word-break: break-word; text-align: center;">
+                                      <a href="tel:+27 (0) 22 707 7000" style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;text-decoration:none;font-size:13px;font-weight:400;line-height:17px;text-align:center;color:#ffffff;">
+                                        +27 (0) 22 707 7000
+                                      </a>
+                                    </td> 
+                                  </tr>
+                                </tbody>
+                              </table> 
+                            </div> 
+                            <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:300px;" ><![endif]--> 
+                            <div class="col-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:50%;"> 
+                              <table style="padding:0;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;padding:0px;word-break:break-word;font-size:14px;font-weight:600;line-height:1;text-align:center;text-transform:uppercase;color:#ffffff;" align="center">
+                                      Address
+                                    </td> 
+                                  </tr>
+                                  <tr>
+                                    <td style="font-size:0px;padding:0px;word-break:break-word;" align="center">
+                                      <table style="border-spacing:0;border-collapse:collapse;padding:0;padding:0;vertical-align:top;text-align:left;width: 80%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                          <tr> 
+                                            <td style="font-size:0px;padding:5px 0px 25px 0px;word-break:break-word;" align="center"> 
+                                              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td height="50px" style="vertical-align:top;height:50px;"><![endif]-->
+                                              <div class="footer-mob-no-h" style="font-size:13px;font-weight:400;line-height:17px;text-align:center;color:#ffffff;height:50px;">
+                                                <a href="#" style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;text-decoration:none;color: #ffffff;" target="_blank">
+                                                  Mykonos Access Road, Langebaan Western Cape, South Africa 7357
+                                                </a> 
+                                              </div>
+                                              <!--[if mso | IE]></td></tr></table><![endif]-->
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table> 
+                                    </td> 
+                                  </tr>
+                                  <tr>
+                                    <td style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;padding:0px;word-break:break-word;font-size:14px;font-weight:600;line-height:1;text-align:center;text-transform:uppercase;color:#ffffff;" align="center">
+                                      EMAIL ADDRESS
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td style="padding: 5px 0px 25px; word-break: break-word; text-align: center;">
+                                      <a href="mailto:info@clubmykonos.co.za" style="font-family: 'Montserrat', Helvetica, Verdana, Sans-serif !important;font-family: Helvetica, Verdana, Sans-serif;text-decoration:none;font-size:13px;font-weight:400;line-height:17px;text-align:center;color:#ffffff;">
+                                        info@clubmykonos.co.za
+                                      </a>
+                                    </td> 
+                                  </tr> 
+                                </tbody>
+                              </table>
+                            </div> 
+                            <!--[if mso | IE]></td></tr></table><![endif]-->
+                          </td> 
+                        </tr> 
+                      </tbody> 
+                    </table> 
+                  </div> 
+                  <!--[if mso | IE]></td></tr></table></td></tr></table><![endif]-->
+                </td> 
+              </tr> 
+            </tbody> 
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+            </mj-wrapper>
+    <!-- Pre-Footer end -->
+    <!-- Footer start -->
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-text padding="0">
+          <table style="width:100%; border-collapse: collapse; border-spacing: 0; padding: 0;">
+            <tbody>
+              <tr>
+                <td style="width: 100%; border-collapse: collapse; border-spacing: 0; padding: 0;">
+                  <div style="position: relative;">
+                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; width: 100%; background-color: #FFFFFF;color: #000000; font-size: 8pt; font-family: Arial;">
+                      <tbody>
+                        <tr>
+                          <td align="center">
+                            <div style="text-align: center;">
+                              <br>
+                              <span style="color: #000000; font-size: 8pt; font-family: Arial;">
+                                <span style="font-family:century gothic,sans-serif;">
+                                  This message was intended for <a href="mailto:" style="color: #000000;text-decoration:none;" target="_blank">@@TO@@</a><br>
+                                  <a href="http://tcgms.net/cgi-bin/unsub.cgi?mid=@@MID64@@" style="color: #005BAE;text-decoration:none;" target="_blank">
+                                    Unsubscribe Now
+                                  </a>
+                                  or reply to this email and place 'unsubscribe' on the subject line.
+                                  <br>
+                                  To ensure you receive future Club Mykonos Langebaan emails, please add <a href="mailto:info@clubmykonos.co.za" style="color: #000000;text-decoration:none;">info@clubmykonos.co.za </a>to your address book. 
+                                  <a href="http://tcgms.net/tr/c/@@MID@@/1091603" style="color: #005BAE;text-decoration:none;" target="_blank">
+                                    Help
+                                  </a>
+                                  <br> 
+                                  <br>
+                                  <a href="#" style="color: #000000;text-decoration:none;" target="_blank">Mykonos Access Road, Langebaan, Western Cape, South Africa</a>
+                                  <br> <a href="tel:+27 (0) 22 707 7000" style="color: #000000;text-decoration:none;">T: +27 (0) 22 707 7000</a> | E: <a href="mailto:info@clubmykonos.co.za" style="color: #000000;text-decoration:none;">info@clubmykonos.co.za</a>
+                                  <br>
+                                  <br>
+                                </span>
+                              </span> 
+                            </div>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Footer end -->
+  </mj-body>
+</mjml>

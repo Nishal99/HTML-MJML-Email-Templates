@@ -1,0 +1,382 @@
+<mjml>
+  <mj-head>
+    <mj-title>Your reservation @@confirmation_number@@ has been confirmed.
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-font name="Nunito Sans" href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"/>
+    <mj-font name="Forum" href="https://fonts.googleapis.com/css2?family=Forum&display=swap"/>
+    <mj-style>
+      .hide {
+      display:none!important;
+      }
+      .mob-visi{
+      display:none;
+      }
+      @media (max-width: 595px) {
+      div, td, img, table{
+      text-align:center !important;
+      margin:0 auto;
+      }
+      .wrp_pad-remove-pd td,
+      div.wrp_pad td,div.wrp_pad td td td{
+      padding-left:0px !important;
+      padding-right:0px !important;
+      }
+      div.wrp_pad td td{
+      padding-left:20px !important;
+      padding-right:20px !important;
+      }
+      td.upgrd-rate{
+      padding-top:0px !important;
+      }
+      div.sec-pad-upgrd td{
+      padding-left:0px !important;
+      padding-right:0px !important;
+      }
+      div.sec-pad-upgrd td td{
+      padding-left:20px !important;
+      padding-right:20px !important;
+      }
+      tr.social-el td td img{
+      padding-left:0px !important;
+      padding-right:0px !important;
+      }
+      td.rm-pd{
+      padding-top:0px !important;
+      }
+      td.rm-pd,
+      td.view_brows{
+      padding-top:0px !important;
+      }
+      .div-dec,
+      td.header-logo,
+      td.social-op{
+      padding-bottom:10px!important;
+      }
+      .rm-top-pd,
+      .header-logo{
+      padding-top:10px!important;
+      }
+      .space-mob-none,
+      .br-mob{
+      display:none !important;
+      }
+      .pd-bottom-text{
+      padding-bottom:0px!important;
+      }
+      .mob-visi{
+      display:block;
+      }
+      .tbl-bg-img table {
+      background-image: none !important;
+      }
+      .mob-none{
+      padding:10px !important;
+      }
+      .mb-color-title div{
+      color:#40aab6 !important;
+      }
+      .mb-color div{
+      color:#002a45 !important;
+      }
+      .wrp_pad-mob td{
+      background-color:#D9D9D6 !important;
+      }
+      td.mob-visi table {
+      width: 100% !important;
+      }
+      td.btn {
+      padding-bottom: 10px !important;
+      }
+      td.hotel-logo {
+      padding-bottom: 20px !important;
+      }
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="center">
+      </mj-text>
+      <mj-section background-color="#fff">
+      </mj-section>
+    </mj-attributes>
+   
+  </mj-head>
+  <mj-body background-color="#ffffff" width="640px">
+    <!--======Pre Header======-->
+    <mj-wrapper padding="0px 20px" background-color="#ffffff" css-class="wrp_pad">
+      <mj-section background-color="#ffffff" padding="0px">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="16px" padding="12px" line-height="14px" color="#002a45" align="left">
+            Your stay at The BoTree
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="12px" line-height="14px" color="#002a45" align="right" css-class="view_brows">
+            <a href="https://tcgms.net/tr/c/@@MID@@/2502976/%20@@MID64@@" target="_blank" style="text-decoration:none;color:#002a45;">
+              View in browser
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!--======Logo & Social icons======-->
+    <mj-wrapper padding="0px 20px" background-color="#D9D9D6" css-class="wrp_pad-mob">
+      <mj-section background-color="#D9D9D6" padding="20px 40px">
+        <mj-column vertical-align="middle">
+          <mj-image src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/BoTree_Pomegranate-svg_(1)_1.png" width="180px" height="auto" padding="0px" href="#" target="_blank" alt="The botree hotel logo" css-class="header-logo"/>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!--Banner image-->
+    <mj-section padding="0px 0px 0px" background-color="#D9D9D6">
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/Banner_Image_550x300px-min.png" width="540px" height="auto" alt="Interior view of a bedroom" padding="0px" href="#" target="_blank" fluid-on-mobile="true" css-class="banner image"/>
+      </mj-column>
+    </mj-section>
+    <!--======Body Content======-->
+    <mj-wrapper padding="0px 20px" background-color="#DBCDD3" css-class="wrp_pad">
+      <mj-section padding="0px 30px" background-color="#DBCDD3">
+        <mj-column>
+          <mj-text font-family="Forum, sans-serif" font-size="46px" padding="25px 0px 0px" line-height="50px" color="#40aab6" text-transform="uppercase" font-weight="900">
+            YOUR STAY
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0px" background-color="#DBCDD3">
+        <mj-column>
+          <mj-divider width="120px" padding="10px 0px 0px" border-width="1px" border-color="#40aab6"/>
+        </mj-column>
+      </mj-section>
+     
+              <mj-section padding="0px 30px" background-color="#DBCDD3">
+        <mj-column>
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="13px" padding="25px 0px 25px" line-height="150%" color="#002a45" background-color="#DBCDD3">Dear
+            <b> @@rsfname@@ @@rslname@@
+            </b>
+            <br>
+            <br>
+            You are coming to 
+            <a style="text-decoration:none;color:#002a45">stay on 
+              <b>@@check_in@@
+              </b></a>
+            <b>.&nbsp;
+            </b>Hope you are excited, we certainly are.
+            <div>The BoTree turns guests into neighbourhood familiars and locals into friends.
+            </div>
+            <div>We are glad you are coming to experience this. 
+              <br>
+              <br>
+              Please take a minute to check everything is as it should be.
+            </div>
+             
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!--======Your stay details======-->
+    <mj-wrapper padding="0px 20px" background-color="#D9D9D6" css-class="wrp_pad">
+      <mj-section padding="0px" background-color="#D9D9D6">
+        <mj-column>
+          <mj-text font-family="Forum, sans-serif" font-size="28px" padding="25px 0px 0px" line-height="28px" color="#002a45" font-weight="600" text-transform="uppercase">
+            YOUR STAY DETAILS
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px 0px" background-color="#D9D9D6" css-class="div-dec">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="20px 10px 0px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            CONFIRMATION NUMBER:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="20px 10px 0px" line-height="28px" color="#002a45" align="right" css-class="rm-pd">
+            @@confirmation_number@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#D9D9D6" css-class="div-dec">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            ARRIVAL DATE:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" align="right">
+            <a style="text-decoration:none;color:#002a45">@@check_in@@</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#D9D9D6" css-class="div-dec">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            DEPARTURE DATE:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" align="right">
+            <a style="text-decoration:none;color:#002a45">@@check_out@@</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#D9D9D6" css-class="div-dec">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            NUMBER OF ADULTS:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" align="right">
+            @@number_of_adults@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#D9D9D6" css-class="div-dec">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            Your room:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" align="right">@@room_category@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#D9D9D6" css-class="div-dec">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            AVERAGE DAILY RATE:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" align="right">@@average_rate_js@@ @@Currency Code@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#D9D9D6" css-class="div-dec">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            Included during your stay:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" align="right">@@package_descriptions_js@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#D9D9D6" css-class="div-dec">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            PLANS CHANGED? CANCEL BY:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" align="right">
+            <a style="text-decoration:none;color:#002a45">@@Cancellation_Policy_Custom@@</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#D9D9D6">
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#002a45" text-transform="uppercase" align="left" font-weight="600">
+            THERE IS ALWAYS SOME SERIOUS STUFF:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="0px 10px 25px" line-height="28px" color="#002a45" align="right">
+            <a href="http://tcgms.net/tr/c/@@MID@@/2568340" target="_blank" style="text-decoration:none;color:#002a45">
+              Policies 
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!--Upgrade--------------------------->
+    <mj-wrapper padding="0px 20px" background-color="#DBCDD3" css-class="wrp_pad">
+      <!--<gm-room-upsell max-sections="1" optins-only="false" form="auto" lang="auto">-->
+      <mj-section background-color="#DBCDD3" padding-bottom="15px">
+        <mj-column>
+          <mj-text font-family="Forum, sans-serif" font-size="46px" padding="5px 0px 0px" line-height="50px" color="#40aab6" text-transform="uppercase" font-weight="900">
+            CAN YOU BE TEMPTED?
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="10px 0px 15px" background-color="#DBCDD3">
+        <mj-column vertical-align="middle">
+          <mj-image width="200px" src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/Image2_480_x_384)a-modified.png" height="auto" alt="botree hotel resturent view"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text font-family="Forum, sans-serif" font-size="20px" padding="10px 20px" line-height="130%" color="#40aab6" text-transform="uppercase" font-weight="900">Dine with us
+          </mj-text>
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="10px 20px" line-height="120%" color="#002a45">
+            <p class="MsoNormal">If you haven’t already, why not reserve a memorable dining experience at our Italian restaurant, LAVO? A masterpiece of the flavours of Italy with dishes prepared using the finest ingredients and innovative techniques. From hand crafted pasta to fresh seafood. Dine with us and receive a complimentary glass of prosecco.&nbsp;
+            </p>
+            <p class="MsoNormal">
+              <o:p>
+              </o:p>
+            </p>
+          </mj-text>
+          <mj-button border-radius="15px 0px" background-color="#9c4a6a" color="#fff" font-size="12px" line-height="100%" text-transform="uppercase" padding="10px 20px 10px" href="https://tcgms.net/tr/c/@@MID@@/2628368" font-family="Nunito Sans, sans-serif" inner-padding="10px 22px" letter-spacing="1px">RESERve NOW
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!--Second two col block--------------------->
+      <!--Divider-->
+      <mj-section padding="0px 0px 0px" background-color="#DBCDD3">
+        <mj-column>
+          <mj-divider padding="0px 20px 15px" border-width="1px" border-color="#40aab6"/>
+        </mj-column>
+      </mj-section>
+      <!--Divider-->
+      <mj-section padding="0px 0px 15px" background-color="#DBCDD3">
+        <mj-column vertical-align="middle">
+          <mj-image padding="10px 20px" width="200px" src="https://images.tcgms.net/assets/748746s4d546t00/media/images/Newslettre_Block_image_(new)-modified_3.png" height="auto" alt="desserts-beverages"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text font-family="Forum, sans-serif" font-size="20px" padding="10px 20px" line-height="24px" color="#40aab6" text-transform="uppercase" font-weight="900">While you are waiting, be the first to know
+          </mj-text>
+          <mj-text font-family="Nunito Sans, sans-serif" font-size="12px" padding="10px 20px" line-height="120%" color="#002a45">
+            Sign up here so there is no fear of missing out. 
+          </mj-text>
+          <mj-button border-radius="15px 0px" background-color="#9c4a6a" color="#fff" font-size="12px" line-height="100%" text-transform="uppercase" padding="10px 20px 10px" href="https://tcgms.net/tr/c/@@MID@@/2588942/%20@@rsemail@@/%20@@rsfname@@/%20@@rslname@@" font-family="Nunito Sans, sans-serif" inner-padding="10px 22px" letter-spacing="1px">SIGN UP HERE
+          </mj-button>
+          <!--[if gt mso 15]><style> table {border-collapse: collapse;} tr {font-size:0px;line-height:0px;}
+<tr style="height:0pt;line-height:0px; padding:0px;"><td style="height:0pt;line-height:0px; padding:0px;">&nbsp;</td></tr></style><![endif]-->
+        </mj-column>
+      </mj-section>
+      
+    </mj-wrapper>
+    <!--Footer-->
+    <mj-section background-color="#D9D9D6" padding="10px 30px 0px">
+      <mj-column width="33.3%" vertical-align="middle">
+        <mj-image src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/9d174f83-a267-4eea-87b6-7f92cbe38d89.png" width="100px" height="auto" padding="0px 0px 20px" href="#" target="_blank" alt="Place 3 hotel logo" css-class="hotel-logo m-p-lr-0"/>
+      </mj-column>
+      <mj-column width="33.3%" vertical-align="middle">
+        <mj-image src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/BoTree_Pomegranate-svg_(1)_2.png" width="120px" height="auto" padding="0px 0px 20px" href="#" target="_blank" alt="the botree hotel logo" css-class="hotel-logo m-p-lr-0"/>
+      </mj-column>
+      <mj-column width="33.3%" vertical-align="middle">
+        <mj-image src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/Preferred_Legend_LOGO_SMALL_black.png" width="120px" height="auto" padding="0px 0px 20px" href="#" target="_blank" alt="Preferred logo" css-class="m-p-lr-0"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 20px 25px" background-color="#D9D9D6">
+      <mj-column>
+        <mj-text letter-spacing="2px" font-family="Nunito Sans, sans-serif" font-size="11px" padding="0px 0px 0px" color="#002a45" line-height="130%">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2597190" target="_blank" style="color: rgb(0, 42, 69); text-decoration: none;">
+            The BoTree, 30 Marylebone Lane, London W1U 2DR,
+          </a>
+          <a href="tel:02073099700" style="color: rgb(0, 42, 69); text-decoration: none;">020 7309 9700
+          </a>
+          <br> 
+          <a href="mailto:hello@thebotree.com" style="color: rgb(0, 42, 69); text-decoration:none;">hello@thebotree.com</a>
+          <br> 
+          <a href="http://tcgms.net/tr/c/@@MID@@/2597191" target="_blank" style="color: rgb(0, 42, 69); text-decoration: none;"> the_botree</a>
+        </mj-text>
+        <mj-text font-style="italic" font-family="Nunito Sans, sans-serif" font-size="11px" padding="20px 0px 0px" color="#002a45" line-height="129%">
+          <a href="https://tcgms.net/cgi-bin/unsub.cgi?mid=@@MID64@@" target="_blank" style="color:#002a45;text-decoration:none;">
+            Unsubscribe
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

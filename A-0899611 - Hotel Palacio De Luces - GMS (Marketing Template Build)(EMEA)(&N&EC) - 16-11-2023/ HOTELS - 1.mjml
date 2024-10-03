@@ -1,0 +1,133 @@
+<mjml>
+  <mj-head>
+    <mj-title>CoolRooms Palacio de Atocha – Booking confirmation
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-breakpoint width="595px">
+    </mj-breakpoint>
+    <mj-style>
+      @media (max-width: 595px) {
+      div.banner-sec-pad td{padding:20px !important;}
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="13px" line-height="150%" color="#222835" padding="20px 20px 0px">
+      </mj-text>
+      <mj-section padding="0px" background-color="#fff">
+      </mj-section>
+      <mj-button border-radius="0px" text-transform="uppercase" font-size="13px" font-family="Arial, sans-serif" color="#ffffff" background-color="#0085A2" inner-padding="10px 15px" align="center" href="#">
+      </mj-button>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!--View in Browser-->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-size="11px" line-height="150%" color="#5ea1ad" padding="10px" align="center">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2801155/%20@@MID64@@" target="_blank" style="color:#5ea1ad; text-decoration:none;"> View in Browser </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>    
+    <!--Banner image-->
+    <mj-wrapper background-url="https://images.tcgms.net/assets/81ct15y16314400/media/images/fabf43bf-92f5-4179-9793-6a869163a48f.jpg" background-size="cover"
+              background-repeat="no-repeat">
+    <mj-section background-color="transparent">
+      <mj-column width="30%">
+       <mj-image href="https://coolrooms.com/palaciodeluces/en/" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/a0dc426f-c9a2-44f2-9553-a8068b0c5aac.png" width="100px" height="auto" alt="dummy image" padding="0px"/>
+      </mj-column>
+      <mj-column width="70%">
+      </mj-column>
+    </mj-section>
+      <mj-section padding="100px 50px 100px" background-color="transparent" css-class="banner-sec-pad"></mj-section>
+      </mj-wrapper>
+    <!--Body text-->
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" padding-bottom="0px"><b>The ideal place to connect with nature<br/> and find your inner peace.</b>
+        </mj-text>
+        <mj-text align="center" padding-top="15px" padding-bottom="10px">Discover Palacio de Luces, Asturias's<br/> best-kept secret, surrounded by 13.000 m2<br/> of gardens and only 2 kilometers away from<br/> the charming seaside village of Lastres, one<br/> of the most beautiful villages in Spain.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Details-->
+   <!--Two column 1-->
+    <mj-section padding="0 10px">
+      <mj-column vertical-align="middle">
+       <mj-image href="https://tellarestaurante.com/en/" fluid-on-mobile="true" alt="placeholder image" padding="10px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+      <mj-image href="https://tellarestaurante.com/en/" fluid-on-mobile="true" alt="placeholder image" padding="10px 10px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/505c34c9-0720-454d-93db-e613c147f5d5.png"></mj-image>
+        <mj-button href="https://tellarestaurante.com/en/" background-color="#000000" font-size="13px" width="100%" padding="0 10px 10px" inner-padding="10px 10px">FALL IN LOVE WITH OUR CREATIONS</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 1-->
+    <!--Two column 2-->
+    <mj-section direction="rtl" padding="0 10px">
+      <mj-column vertical-align="middle">
+       <mj-image href="https://coolrooms.com/palaciodeluces/en/vouchers/" fluid-on-mobile="true" alt="placeholder image" padding="10px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+      <mj-image href="https://coolrooms.com/palaciodeluces/en/vouchers/" fluid-on-mobile="true" alt="placeholder image" padding="10px 10px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/505c34c9-0720-454d-93db-e613c147f5d5.png"></mj-image>
+        <mj-button href="https://coolrooms.com/palaciodeluces/en/vouchers/" background-color="#000000" font-size="13px" width="100%" padding="0 10px 10px" inner-padding="10px 10px">THE ULTIMATE LUXURY EXPERIENCE</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 2-->
+    <!--Two column 3-->
+    <mj-section padding="0 10px">
+      <mj-column vertical-align="middle">
+       <mj-image href="https://coolrooms.com/palaciodeluces/en/" fluid-on-mobile="true" alt="placeholder image" padding="10px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+      <mj-image href="https://coolrooms.com/palaciodeluces/en/" fluid-on-mobile="true" alt="placeholder image" padding="10px 10px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/505c34c9-0720-454d-93db-e613c147f5d5.png"></mj-image>
+        <mj-button href="https://coolrooms.com/palaciodeluces/en/" background-color="#000000" font-size="13px" width="100%" padding="0 10px 10px" inner-padding="10px 10px">SLEEPING IN A 16TH CENTURY PALACE</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 3-->
+    <!--Two column 4-->
+    <mj-section direction="rtl" padding="0 10px">
+      <mj-column vertical-align="middle">
+       <mj-image href="https://www.instagram.com/coolroomspalaciodeluces/" fluid-on-mobile="true" alt="placeholder image" padding="10px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+      <mj-image href="https://www.instagram.com/coolroomspalaciodeluces/" fluid-on-mobile="true" alt="placeholder image" padding="10px 10px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/505c34c9-0720-454d-93db-e613c147f5d5.png"></mj-image>
+        <mj-button href="https://www.instagram.com/coolroomspalaciodeluces/" background-color="#000000" font-size="13px" width="100%" padding="0 10px 10px" inner-padding="10px 10px">CREATE AND SHARE MEMORIES</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Two column end 4-->
+    <!--divider-->
+    <mj-section padding="0 20px">
+      <mj-column vertical-align="middle">
+       
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 20px 0px" >
+      <mj-column vertical-align="middle" border-top="1px solid #222835">
+        <mj-text align="center" color="#222835" padding="20px 10px 10px"><a target="_blank" href="https://www.instagram.com/coolroomspalaciodeluces/" style="color:#222835; text-decoration:none;">@coolroomspalaciodeluces</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!--4 column-->
+    <mj-section padding="10px 20px">
+      <mj-column vertical-align="middle">
+       <mj-image href="https://www.instagram.com/coolroomspalaciodeluces/" fluid-on-mobile="true" alt="placeholder image" padding="0px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+       <mj-image href="https://www.instagram.com/coolroomspalaciodeluces/" fluid-on-mobile="true" alt="placeholder image" padding="0px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/77a74854-c6e3-4ae0-8773-db697db41890.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+       <mj-image href="https://www.instagram.com/coolroomspalaciodeluces/" fluid-on-mobile="true" alt="placeholder image" padding="0px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58326534-8cf8-4d1e-a64e-976fb718760b.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+       <mj-image href="https://www.instagram.com/coolroomspalaciodeluces/" fluid-on-mobile="true" alt="placeholder image" padding="0px" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/77a74854-c6e3-4ae0-8773-db697db41890.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--4 column end-->
+    <!--footer-->
+    <mj-section padding="0 20px">
+      <mj-column vertical-align="middle">
+       
+        <mj-text font-size="11px" align="center" color="#5ea1ad" padding="10px 20px 0px"><a href="https://app.guezzt.com/unsubscribe?profileId=UHJvZmlsZTo2MzJjM2MxNGVmOWFjNjAwMTQ2YTIzZTA=&companyId=Q29tcGFueTo1ZTZmMzExY2M4ZGI0MjAwMWFjNTg3NDE=&token=$2a$04$70cdE1C9HR.JfJIr5sIAKOZl5Hp2tFCyDMovtq87zvmZUzBRZYUOy&campaignId=Q2FtcGFpZ246NjMyOWQzNWMyNzdjNTUwMDEzZTdhMzMz" style="color:#5ea1ad;text-decoration:none;" target="_blank">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

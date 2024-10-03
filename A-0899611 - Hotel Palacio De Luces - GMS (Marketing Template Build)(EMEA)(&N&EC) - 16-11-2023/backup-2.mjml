@@ -1,0 +1,286 @@
+<mjml>
+  <mj-head>
+    <mj-title>CoolRooms Palacio de Atocha – Booking confirmation
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-breakpoint width="595px">
+    </mj-breakpoint>
+    <mj-style>
+      @media (max-width: 595px) {
+      div {
+      text-align: center !important;
+      }
+      .header-logo table,
+      .ftr-logo table {
+      margin: 0 auto !important;
+      }
+      .mobile-pdn {
+      padding-bottom: 10px !important;
+      }
+      .mobile-pdn1 {
+      padding-top: 0px !important;
+      }
+      .conf-blk {
+      padding-bottom: 0px !important;
+      }
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="13px" line-height="150%" color="#222835" padding="20px 20px 0px">
+      </mj-text>
+      <mj-section padding="0px" background-color="#fff">
+      </mj-section>
+      <mj-button border-radius="0px" text-transform="uppercase" font-size="13px" font-family="Arial, sans-serif" color="#ffffff" background-color="#0085A2" inner-padding="10px 15px" align="center" href="#">
+      </mj-button>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!--View in Browser-->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-size="11px" line-height="150%" color="#7b868c" padding="10px" align="center">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2818606/%20@@MID64@@" target="_blank" style="color:#222835"> View in Browser </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- HEADER -->
+    <mj-section background-color="#E5E4DF">
+      <mj-column width="65%">
+        <mj-text color="#2E3547" font-size="12px" padding="20px" align="left" line-height="100%" css-class="mobile-pdn"> CoolRooms Palacio de Atocha – Booking Confirmation 
+        </mj-text>
+      </mj-column>
+      <mj-column width="35%">
+        <mj-text color="#2E3547" font-size="12px" padding="20px" align="right" line-height="100%" css-class="mobile-pdn1"> Telephone: 
+          <a href="tel:+34910887780" style="color:#2E3547; text-decoration:none;"> (+34)&nbsp;910 88 77 80 </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Header Section-->
+    <mj-section padding="20px" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/40d6f5a5-4f78-467b-a797-16de24fddea5.png" width="200px" height="auto" alt="Cool rooms hotel logo" padding="0px" href="http://tcgms.net/tr/c/@@MID@@/2801604" target="_blank" css-class="header-logo"/>
+      </mj-column>
+    </mj-section>
+    <!--Banner image-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/f950f8ab-7bd9-4dfd-9fb6-3f6858c81842.png" width="600px" height="auto" alt="View of entrance door with Cool rooms banner" padding="0px"/>
+      </mj-column>
+    </mj-section>
+    <!--Body text-->
+    <mj-section>
+      <mj-column>
+        <mj-text> Dear @@rsfname@@, 
+        </mj-text>
+        <mj-text> Thank you for choosing 
+          <b>CoolRooms Palacio de Atocha
+          </b> for your stay in Madrid. We appreciate your trust and are pleased to confirm your reservation with the following details: 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Details-->
+    <mj-section padding="20px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> Confirmation No: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@confirmation_number@@ 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> Surname: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@rslname@@ 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> First Name: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px" align="left"> @@rsfname@@ 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> Arrival Date: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@arrival_date@@ 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> Departure Date: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@departure_date@@ 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> No. Adults/children: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@number_of_adults@@ Adult(s) / @@number_of_children@@ Total Children 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> No. of Rooms/type: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@number_of_rooms@@, Total Room / @@room_category@@ Room Type 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> Check-in: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@check_in@@ 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> Check-out: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@check_out@@ 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 5px" font-weight="bold" css-class="conf-blk"> Total stay: 
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 5px"> @@total_charges@@ 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Body text-->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="15px">@@atocha_Inclusion_and_cancellation_policy@@
+        </mj-text>
+        <mj-text>Please do not hesitate to contact us to enjoy a 
+          <span style="font-weight:bold;font-style:italic">truly Cool</span> stay by requesting any additional services such as transfers, experiences, and/or special attentions in your room.
+        </mj-text>
+        <mj-text>Thank you for the trust you have placed in us, and we wish you a wonderful stay at 
+          <b>CoolRooms Palacio de Atocha.
+          </b> Don´t forget to visit 
+          <a href="http://tcgms.net/tr/c/@@MID@@/2801604" target="_blank" style="color:#2E3547; text-decoration:none;">our website</a> to learn more about this palace from 1852 and its history. Additionally, you can access our full range of gastronomic offerings and services on our 
+          <a href="http://tcgms.net/tr/c/@@MID@@/2801605" target="_blank" style="color:#2E3547; text-decoration:none;">web-app STAY.</a> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Reservation Dep-->
+    <mj-section>
+      <mj-column>
+        <mj-text padding="20px 20px 0px">
+          <b>Reservations Department
+          </b>
+        </mj-text>
+        <mj-text padding="0px 20px">Tel: 
+          <a href="tel:+34910887780" style="color:#2E3547; text-decoration:none;"> (+34)&nbsp;910 887 780 </a>
+        </mj-text>
+        <mj-text padding="0px 20px">WhatsApp: 
+          <a href="http://tcgms.net/tr/c/@@MID@@/2805478" style="color:#2E3547; text-decoration:none;" target="_balnk"> (+34) 650 868 269 </a>
+        </mj-text>
+        <mj-text padding="0px 20px">
+          <a href="mailto:reservations@palaciodeatocha.com " style="color:#2E3547; text-decoration:none;"> reservations@palaciodeatocha.com  </a>
+        </mj-text>
+        <mj-text padding="0px 20px 20px">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2805319" style="color:#2E3547; text-decoration:none;" target="_blank"> How to get there? </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Footer image-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/1ae21b61-47e3-4465-ae04-122ba689fe10.png" width="600px" height="auto" alt="Two statues of god Hermes at the top of the wall" padding="0px"/>
+      </mj-column>
+    </mj-section>
+    <!-- Footer -->
+    <mj-section background-color="#E5E4DF" padding="20px 0 0px">
+      <mj-column>
+        <mj-text align="center" padding="0px 20px" color="#2E3547" font-size="12px">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2805320" target="_blank" style="color: #2E3547; text-decoration: none">CoolRooms Palacio de Atocha</a>
+        </mj-text>
+        <mj-text align="center" padding="0px 20px" color="#2E3547" font-size="12px">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2805322" target="_balnk" style="color: #2E3547; text-decoration: none">@coolroomspalaciodeatocha</a>
+        </mj-text>
+        <mj-text align="center" padding="0px 20px" color="#2E3547" font-size="12px">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2805319" target="_blank" style="color: #2E3547; text-decoration: none">Calle de Atocha, 34, 28012 Madrid</a>
+        </mj-text>
+        <mj-text align="center" padding="0px 20px" color="#2E3547" font-size="12px">
+          Teléfono:
+          <a href="tel:+34910887780" style="color:#2E3547; text-decoration:none;"> (+34)&nbsp;910 88 77 80 </a>
+        </mj-text>
+        <mj-text align="center" padding="0px 20px" color="#2E3547" font-size="12px">WhatsApp: 
+          <a href="http://tcgms.net/tr/c/@@MID@@/2805478" style="color:#2E3547; text-decoration:none;"> (+34) 650 868 269 </a>
+        </mj-text>
+        <mj-text align="center" padding="0px 20px" color="#2E3547" font-size="12px">
+          <a href="mailto:reservations@palaciodeatocha.com " style="color:#2E3547; text-decoration:none;"> reservations@palaciodeatocha.com  </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#E5E4DF" padding="20px 0 0px">
+      <mj-column>
+        <mj-social mode="horizontal" border-radius="0px" icon-height="24px" padding="0px" css-class="social_tbl">
+          <mj-social-element alt="facebook-icon" href="http://tcgms.net/tr/c/@@MID@@/2805321" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/f0a244cc-967a-43fe-89af-4fe0078f95cd.png">
+          </mj-social-element>
+          <mj-social-element alt="instagram-icon" href="http://tcgms.net/tr/c/@@MID@@/2805322" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/66ed180c-32a4-4013-89d6-a84a832a7f18.png">
+          </mj-social-element>
+          <mj-social-element alt="youtube-icon" href="http://tcgms.net/tr/c/@@MID@@/2805323" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/4bc0df37-8d5b-4b58-aca3-6ba98507e6d0.png">
+          </mj-social-element>
+          <mj-social-element alt="mail-icon" href="mailto:reservations@palaciodeatocha.com" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/58ec1830-8b3d-4589-a8f7-c2a01f7e3a82.png" target="_self">
+          </mj-social-element>
+          <mj-social-element alt="linkedin-icon" href="http://tcgms.net/tr/c/@@MID@@/2805324" icon-size="24px" padding="2px 12px 4px 0" src="https://images.tcgms.net/assets/81ct15y16314400/media/images/44125583-6e2d-402f-9042-2ae3dfa8b3ea.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#003b61" padding="0px">
+      <mj-section background-color="#E5E4DF" padding="20px 10px">
+        <mj-column vertical-align="middle">
+          <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/c016850f-f848-470b-a805-f544ec8de9d4.png" width="120px" height="auto" padding="0px" alt="Conde Nast Traveler Spain - Atocha Mejor Hotel Urbano -Gold List 2020" href="#" target="_balnk" css-class="ftr-logo"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/8cdf945d-07a2-49b4-99e7-ff130bb1b93a.png" width="120px" height="auto" padding="0px" alt="Logo of Bioscore" href="#" target="_balnk" css-class="ftr-logo"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/26d38f63-ab03-472e-9fa1-01c1293b159b.png" width="120px" height="auto" padding="0px" alt="Logo of Conde Nast Johansens - Atocha Mejor Hotel urbano 2023" href="http://tcgms.net/tr/c/@@MID@@/2805325" target="_balnk" css-class="ftr-logo"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/5a3bcec4-93c6-42ce-9dd8-addea4d89abc.png" width="120px" height="auto" padding="0px" alt="Logo of Luxury Spain" href="#" target="_balnk" css-class="ftr-logo"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image src="https://images.tcgms.net/assets/81ct15y16314400/media/images/cf0da959-7b9c-42d5-9015-40c0ad1611da.png" width="120px" height="auto" padding="0px" alt="Logo 0f Traveler's Choice Awards - Trip Advisor" href="#" target="_balnk" css-class="ftr-logo"/>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

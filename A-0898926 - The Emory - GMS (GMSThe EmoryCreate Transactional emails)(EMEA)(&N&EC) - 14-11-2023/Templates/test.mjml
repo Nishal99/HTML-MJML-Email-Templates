@@ -1,0 +1,208 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-breakpoint width="595px">
+    </mj-breakpoint>
+    <mj-font name="Schibsted Grotesk" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap"/>
+    <mj-style>
+      td.reservation_details{padding:10px 0 0px !important;}
+      @media(max-width:595px){
+      td.reservation_details_2{padding-top:20px !important;}
+      td.cance-mob-pad{padding-top:0px !important;}
+      td.tax-head-pad{padding-bottom:10px !important;}
+      div{text-align:center !important;}
+      td.btn-btm-pad{padding-bottom:20px !important}
+      }
+    </mj-style>
+    
+    <mj-attributes>
+      
+      <mj-text color="#020301" font-family="Schibsted Grotesk, sans-serif" font-size="10px" padding="10px 0px" line-height="120%">
+      </mj-text>
+      <mj-section background-color="#FDFBF7" padding="0px 20px">
+      </mj-section>
+      <mj-button font-size="10px" font-family="'Schibsted Grotesk', sans-serif">
+      </mj-button>
+    </mj-attributes>
+     <mj-raw>
+      <!--[if mso]>
+<style type="text/css">
+td.btn_cls table{width: auto !important;}
+td.btn_cls table td a, td.btn_cls table td{padding:10px 40px !important;}
+</style>
+<![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#FDFBF7">
+    <!-- PRE HEADER -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding="20px 0 0 0" align="center" color="#020301" font-size="10px" line-height="130%">
+          <a href="http://zmaildirect.com/html/@@MID64@@" style="text-decoration:none; color:#020301;" target="_blank">
+            View in browser
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- PRE HEADER EEND-->
+    <!-- HEADER -->
+    <mj-section>
+      <mj-column>
+        <mj-image alt="The Emory London Logo" src="https://images.tcgms.net/assets/l32737d32i00/media/images/cb98d372-8209-4c0e-809b-2e2337e1de54.jpg" width="180px" href="https://www.the-emory.co.uk/" padding="20px 0px"/>
+      </mj-column>
+    </mj-section>
+    <!-- HEADER END -->
+    <!-- HERO IMAGE -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0" alt="Exterior view of the Emory London Hotel" src="https://images.tcgms.net/assets/l32737d32i00/media/images/aab349f3-cf20-4c4b-b7e6-bfec9fc93be0.jpg" href="https://www.the-emory.co.uk/"/>
+      </mj-column>
+    </mj-section>
+    <!-- HERO IMAGE END -->
+    <!-- BODY TEXT -->
+    <mj-section>
+    	<mj-column>
+      	<mj-text padding-top="20px">
+        	Dear Mr/Mrs,
+        <br/><br/>We are so pleased you've chosen The Emory for your upcoming stay in London, and you'll find all your reservation details below. Everyone here will ensure you love every moment of your stay.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- RESERVATION BLOCK WITH THE IMAGE -->
+    <mj-section padding="10px 20px 20px" direction="rtl">
+      <mj-column vertical-align="middle" width="270px">
+      	<mj-image align="center" fluid-on-mobile="true" padding="0 0px 0 0" src="https://images.tcgms.net/assets/l32737d32i00/media/images/47599041-0acc-479e-b2b7-a10ea398044e.jpg" alt="Room image"></mj-image>
+      </mj-column>
+      <mj-column width="20px"></mj-column>
+    	<mj-column vertical-align="middle" width="270px">
+      	<mj-text font-size="13.5px" font-weight="bold" padding-bottom="0px" padding-top="0" css-class="reservation_details_2">CONFIRMATION DETAILS </mj-text>
+        <mj-text padding-right="20px" css-class="reservation_details "><b>Confirmation No.: </b>@@opera_raw_id@@</mj-text>
+        <mj-text padding-right="20px" css-class="reservation_details"><b>Guest Name: </b>@@salutation@@ @@rsfname@@ @@rslname@@</mj-text>
+        <mj-text css-class="reservation_details"><b>Arrival Date: </b>@@check_in@@</mj-text>
+        <mj-text css-class="reservation_details"><b>Departure Date: </b>@@check_out@@</mj-text>
+        <mj-text css-class="reservation_details"><b>Room Type: </b>@@room_category@@</mj-text>
+        <mj-text css-class="reservation_details"><b>Rate Description: </b>@@Rate Description@@</mj-text>
+        <mj-text css-class="reservation_details"><b>Notes: </b>@@notes@@</mj-text>
+        <mj-text padding-right="20px" css-class="reservation_details" padding-bottom="10px"><b>Requests: (Subject to availability)</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- RESERVATION BLOCK WITH THE IMAGE END -->
+    <!-- POLICY BLOCK -->
+    <mj-section>
+    	<mj-column>
+        <mj-divider border-color="#180EC2" border-width="2px" padding="0"></mj-divider>
+      	<mj-text font-size="13.5px" font-weight="bold" padding-bottom="0px" padding-top="20px">IMPORTANT INFORMATION</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column width="30%">
+      	<mj-text font-weight="bold" padding="10px 0px 10px">Cancellation:</mj-text>
+      </mj-column>
+      <mj-column width="70%">
+      	<mj-text padding="10px 0px 10px" css-class="cance-mob-pad">@@property_cancellation_policy@@</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column width="30%">
+      	<mj-text font-weight="bold" padding="0px 0px 10px">Check-In Time:</mj-text>
+      </mj-column>
+      <mj-column width="70%">
+      	<mj-text padding="0px 0px 10px">@@property_check_in@@</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column width="30%">
+      	<mj-text font-weight="bold" padding="0px 0px 10px">Check-Out Time:</mj-text>
+      </mj-column>
+      <mj-column width="70%">
+      	<mj-text padding="0px 0px 10px">@@property_check_out@@</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column width="30%">
+      	<mj-text font-weight="bold" padding="0px 0px 0px" css-class="tax-head-pad">Value Added Tax:</mj-text>
+      </mj-column>
+      <mj-column width="70%">
+      	<mj-text padding="0px 0px 0px">@@total_taxes@@</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column>
+        <mj-divider border-color="#180EC2" border-width="2px" padding="20px 0"></mj-divider>
+        <mj-text align="center" font-size="13.5px" font-weight="bold" padding-bottom="0px" padding-top="0px">ENHANCE YOUR STAY</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- POLICY BLOCK END -->
+    <!-- THREE COLUMN BLOCK -->
+    <mj-section padding="20px">
+    	<mj-column width="173px">
+      	<mj-image fluid-on-mobile="true" padding="0 0px" width="173px" src="https://images.tcgms.net/assets/l32737d32i00/media/images/11c77d0b-4175-46e0-b581-c3ecd4c5aa4a.jpg" alt="Round bar with bar stools at The Emory"></mj-image>
+        <mj-button background-color="#020301" width="100%" border-radius="0" padding="0" href="#" css-class="btn-btm-pad">ABC</mj-button>
+      </mj-column>
+      <mj-column width="20px"></mj-column>
+      <mj-column width="173px">
+      	<mj-image fluid-on-mobile="true" padding="0 0px" width="173px" src="https://images.tcgms.net/assets/l32737d32i00/media/images/10d4982f-72cb-43b2-a821-78263b1ef55e.jpg" alt="ABC Trilogy by Jean-Georges Vongerichten"></mj-image>
+        <mj-button background-color="#020301" width="100%" border-radius="0" padding="0" href="#" css-class="btn-btm-pad">ABOUT THE HOTEL</mj-button>
+      </mj-column>
+      <mj-column width="20px"></mj-column>
+      <mj-column width="173px">
+      	<mj-image fluid-on-mobile="true" padding="0 0px" width="173px" src="https://images.tcgms.net/assets/l32737d32i00/media/images/d469dd56-b7a0-4b5f-b36d-c499716592dd.jpg" alt="Rooftop bar at Emory"></mj-image>
+        <mj-button background-color="#020301" width="100%" border-radius="0" padding="0" href="#">ROOFTOP BAR</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- THREE COLUMN BLOCK END -->
+    <mj-section>
+    	<mj-column>
+        <mj-divider border-color="#180EC2" border-width="2px" padding="0px 0 20px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- SURRENNE -->
+    <mj-section direction="rtl">
+      <mj-column vertical-align="middle" width="70%">
+      	<mj-image fluid-on-mobile="true" padding="0 0px 0 0" src="https://images.tcgms.net/assets/l32737d32i00/media/images/d11f3f12-80da-4636-aaad-853f2c276c65.jpg" alt="Dummy image"></mj-image>
+      </mj-column>
+    	<mj-column vertical-align="middle" width="30%">
+      	<mj-text font-size="18px" align="center">SURRENNE</mj-text>
+        <mj-button css-class="btn_cls" background-color="#180EC2" width="150px" border-radius="0" padding="0" href="#">BOOK</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- SURRENNE END -->
+    <mj-section>
+    	<mj-column>
+      	<mj-text padding-top="20px" padding-bottom="0px">
+        	Following the confirmation of your reservation, we will never ask you to reveal your personal information, including credit card details.<br/><br/>We look forward to welcoming you to The Emory and will do our utmost to ensure you have an enjoyable stay with us. Please do not hesitate to contact me if I can further assist. <br/><br/>Kind regards,<br/><br/>The Reservations Team<br/>
+The Emory
+</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column>
+        <mj-divider border-color="#180EC2" border-width="2px" padding="20px 0 10px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--SOCIAL ICONS -->
+    <mj-section>
+        <mj-column vertical-align="bottom">
+          <mj-social padding="10px 0 20px">
+            <mj-social-element src="https://images.tcgms.net/assets/l32737d32i00/media/images/51e7bcba-0351-4dfc-a9e7-3c3d23c5b007.png" padding="0 10px" name="facebook-noshare/" alt="Facebook" icon-size="25px" border-radius="0" href="#">
+            </mj-social-element>
+            <mj-social-element src="https://images.tcgms.net/assets/l32737d32i00/media/images/7372cfb9-9cbe-4c80-87d4-c46572ed563a.png" padding="0 10px" name="Twitter" alt="Twitter" icon-size="25px" border-radius="0" href="#"></mj-social-element>
+            <mj-social-element src="https://images.tcgms.net/assets/l32737d32i00/media/images/b3ba929d-bb6c-45d1-996d-59bcf5ae437d.png" padding="0 10px" name="Instagram" alt="Instagram" icon-size="25px" border-radius="0" href="#"></mj-social-element>
+            <mj-social-element src="https://images.tcgms.net/assets/l32737d32i00/media/images/00ba860a-5abb-410f-aec1-59e673f5298c.png" padding="0 10px" name="TripAdvisor" alt="TripAdvisor" icon-size="30px" border-radius="0" href="#"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      <!-- FOOTER -->
+    <mj-section background-color="#000000" padding-bottom="10px">
+    	<mj-column>
+      	<mj-image alt="The Emory logo" padding="20px" width="180px" src="https://images.tcgms.net/assets/l32737d32i00/media/images/a358aeaa-6344-4fff-9541-6bc04a1e7ee7.jpg"></mj-image>
+        <mj-text padding-top="0px" color="#ffffff" align="center" ><a href="https://maps.app.goo.gl/G3yWUVuHBLuJwH4v9" style="color:#ffffff; text-decoration:none;" target="_blank">The Emory, Old Barrack Yard, Belgravia, London, SW1X 7NP</a></mj-text>
+        <mj-text color="#ffffff" align="center" ><a href="" style="color:#ffffff; text-decoration:none;" >Reservations Number</a></mj-text>
+        <mj-text padding-top="0px" color="#ffffff" align="center" ><a href="tel:" style="color:#ffffff; text-decoration:none;">Main Number</a></mj-text>
+      </mj-column>
+    </mj-section>
+      <!-- FOOTER END -->
+  </mj-body>
+</mjml>

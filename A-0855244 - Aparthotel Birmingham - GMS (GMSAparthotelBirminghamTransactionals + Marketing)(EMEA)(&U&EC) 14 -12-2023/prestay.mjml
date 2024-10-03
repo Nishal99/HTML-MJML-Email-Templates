@@ -1,0 +1,211 @@
+<mjml>
+  <mj-head>
+    <mj-title>Why don&#039;t you look at enhancing your stay @@rsfname@@
+    </mj-title>
+    <mj-preview>Be a part of something amazing
+    </mj-preview>
+    <mj-breakpoint width="595px">
+    </mj-breakpoint>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"/>
+    <mj-font name="Cormorant Garamond" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"/>
+    <mj-style>
+      @media(max-width:595px) {
+      div{
+      text-align:center !important;
+      }
+      .col-img table {
+      width:100%!important;
+      }
+      td.col-img {
+      padding-left:20px !important;
+      padding-right:20px !important;
+      }
+      td.description-rm-height div{
+      height:5%!important;
+      }
+      td.mobile-align table{      	
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+      width: 219px !important;      
+      }
+      td.mobile-social{      	
+      text-align:center;   
+      padding-top:25px !important;
+      padding-bottom:0px !important;
+      }
+      td.mobile-padding{
+      padding-top:20px !important;
+      }
+      td.td-height div{height: auto !important; min-height:0px !important;}
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="center" color="#56564C" font-family="'Roboto',Arial, sans-serif">
+      </mj-text>
+      <mj-section background-color="#ffffff" padding="0px">
+      </mj-section>
+    </mj-attributes>
+    <mj-raw>
+      <!--[if mso]>
+<style type="text/css">
+table, td, div {mso-line-height-alt:109%; line-height:109% !important;}
+</style>
+<![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#DFB899">
+    <!--View in browser-->
+    <mj-section background-color="#DFB899">
+      <mj-column>
+        <mj-text font-size="11px" line-height="150%" color="#56564C" padding="20px">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2594392/%20@@MID64@@" target="_blank" style="text-decoration:underline;color:#56564C;">View in browser</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Logo section-->
+    <mj-section background-color="#E9E4E1">
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/Aparthotel_Birmingham_Logo.png" width="326px" height="auto" href="http://tcgms.net/tr/c/@@MID@@/2733913" target="_blank" padding="27px" alt="Logo of Aparthotel Birmingham"/>
+      </mj-column>
+    </mj-section>
+    <!--Banner section-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/cffb1657-a5d7-4afc-91bd-362d7533b293.jpg" width="600px" href="http://tcgms.net/tr/c/@@MID@@/2733913" height="auto" padding="0px" alt="Placeholde image for banner"/>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding="0" background-color="#ffffff">
+      <!-- Message Sec1-->
+      <mj-section padding="20px 20px 0px 20px">
+        <mj-column>
+          <mj-text align="left" line-height="150%" padding="0px">Hello @@rsfname@@,
+          </mj-text>
+          <mj-text padding="20px 0px 0px" align="left" line-height="150%">Thank you for choosing to book with us at aparthotel Birmingham, it's not long now until you arrive on @@check_in@@ for @@Length of Stay@@ night(s).
+            <br>
+            <br>
+            The comfort of apartment living with the luxury of hotel services is fast approaching!
+            <br>
+            <br>
+            Read below on how you can make your stay extra special, go on, you deserve it!
+            <br>
+            <br>
+            <b>
+              Get ready to be
+            </b> 
+            <i>a part
+            </i> 
+            <b>of something amazing
+            </b>.
+            <br/>
+            <br/>Aparthotel Birmingham Team
+          
+          </mj-text>
+         
+        </mj-column>
+      </mj-section>
+      <!-- Message Sec2-->
+      
+      <!-- Message Sec3-->
+      
+    </mj-wrapper>
+    <mj-wrapper padding="0px" background-color="#ffffff">
+      <!-- Img set 1-->
+      <mj-section padding="0px">
+        <mj-column width="50%" padding="20px 20px 0px 20px">
+          <mj-text padding-top="0px" font-family="'Cormorant Garamond', Times, Serif" font-size="20px" line-height="150%" color="#56564C" font-weight="bold">Time for an upgrade
+          </mj-text>
+          <mj-image href="#" src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/285e8970-3787-4808-a044-e535b7bfef4e.jpg" alt="Placeholder image" fluid-on-mobile="true" padding="0px"/>
+          <mj-text font-family="'Roboto', Arial, sans-serif" font-size="13px" line-height="150%" color="#56564C" padding-top="20px" height="155px" css-class="td-height">
+            Are you looking for a little extra comfort? Try an upgrade.
+            <br>
+            <br>
+            We have a variety of apartment types to cater to your every need, whether you’re travelling for business, pleasure, or family fun.
+          </mj-text>
+          <mj-button href="#" background-color="#56564C" color="#ffffff" font-family="'Roboto', Arial, sans-serif" font-size="13px" font-weight="normal" line-height="120%" border-radius="0px" padding="10px 20px 0px">Click to upgrade
+          </mj-button>
+        </mj-column>
+        <mj-column width="50%" padding="20px 20px 0px 20px">
+          <mj-text font-family="'Cormorant Garamond', Times, Serif" font-size="20px" line-height="150%" color="#56564C" padding-top="0px" font-weight="bold">Enhance your stay
+          </mj-text>
+          <mj-image href="#" src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/066f5dce-2126-4fba-9de1-f1631e832e62.jpg" alt="Placeholder image" fluid-on-mobile="true" padding="0px"/>
+          <mj-text font-family="'Roboto', Arial, sans-serif" font-size="13px" line-height="150%" color="#56564C" padding-top="20px" height="155px" css-class="td-height">
+           At aparthotel, we want to revolutionise the city centre retreat, that’s why we offer added extras to make every moment count.
+            <br>
+            <br>
+            Why not add a little treat and make even the shortest of stays a little bit special.
+           
+          </mj-text>
+          <mj-button href="#" background-color="#56564C" color="#ffffff" font-family="'Roboto', Arial, sans-serif" font-size="13px" font-weight="normal" line-height="120%" border-radius="0px" padding="10px 20px 0px">Click to add extras
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- Img set 2-->
+      
+      <!-- Img set 3-->
+      <!--Divider-->
+      <mj-section>
+        <mj-column>
+          <mj-divider border-color="#BF8961" border-width="1px" padding="20px 20px 0"/>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text font-family="'Cormorant Garamond', Times, Serif" font-size="20px" line-height="150%" color="#56564C" align="center" padding="20px 20px 0px">
+            <span style="font-weight:700;">Be</span> 
+            <span style="font-weight:300;font-style:italic;">apart</span> 
+            <span style="font-weight:700;">of our family</span>
+          </mj-text>
+          <mj-text font-family="'Roboto', Arial, sans-serif" font-size="13px" line-height="150%" color="#56564C" align="center" padding="10px 20px">Sign up to be the first to hear about our latest news, special offers and promotions.
+          </mj-text>
+          <mj-button href="http://tcgms.net/tr/c/@@MID@@/2733917" padding="10px 20px 20px" background-color="#56564C" color="#ffffff" font-family="'Roboto', Arial, sans-serif" font-size="13px" font-weight="normal" line-height="120%" border-radius="0px">&nbsp;Sign up&nbsp;
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!--Footer section-->
+    <mj-section background-color="#E9E4E1">
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/Aparthotel_Birmingham_Logo.png" width="219px" height="auto" href="http://tcgms.net/tr/c/@@MID@@/2733913" target="_blank" padding="25px 25px 0px" align="left" alt="Logo of Aparthotel Birmingham" css-class="mobile-align"/>
+      </mj-column>
+      <mj-column>
+        <mj-social font-size="15px" icon-size="26px" mode="horizontal" padding="20px 20px" align="right" css-class="mobile-social">
+          <mj-social-element href="http://tcgms.net/tr/c/@@MID@@/2733918" src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/icons8-facebook-100.png" alt="facebook_icon" background-color="#E9E4E1">
+          </mj-social-element>
+          <mj-social-element href="http://tcgms.net/tr/c/@@MID@@/2733919" src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/icons8-twitter-100.png" alt="twitter_icon" background-color="#E9E4E1">
+          </mj-social-element>
+          <mj-social-element href="http://tcgms.net/tr/c/@@MID@@/2733920" src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/icons8-instagram-48.png" alt="instagram_icon" background-color="#E9E4E1" icon-size="24px">
+          </mj-social-element>
+          <mj-social-element href="http://tcgms.net/tr/c/@@MID@@/2733921" src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/695f1182-a26f-4c4b-bf59-7d96255b83cb.png" alt="you-tube_icon" background-color="#E9E4E1">
+          </mj-social-element>
+          <mj-social-element href="http://tcgms.net/tr/c/@@MID@@/2733922" src="https://images.tcgms.net/assets/p20n1fb21x1en00/media/images/d973b41f-7263-42bb-9a26-29057db608ce.png" alt="linkedin_icon" background-color="#E9E4E1">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#E9E4E1">
+      <mj-column>
+        <mj-text font-size="13px" line-height="150%" color="#56564C" padding="20px 20px 0px" css-class="mobile-padding">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2733923" target="_blank" style="text-decoration:none;color:#56564C;">
+            St. Chads Queensway,<br> Birmingham, WMI, B4 6HY,<br> United Kingdom
+          </a>
+        </mj-text>
+        <mj-text font-size="13px" line-height="150%" color="#56564C" padding="0px 20px 0px">
+          <a href="tel:+441216612222" style="text-decoration:none;color:#56564C;">
+            0121 661 2222 
+          </a> 
+        </mj-text>
+        <mj-text font-size="13px" line-height="150%" color="#56564C" padding="0px 20px 20px">
+          <a href="mailto:enquiries@aparthotelbirmingham.co.uk" style="text-decoration:none;color:#56564C;">
+            enquiries@aparthotelbirmingham.co.uk 
+          </a> 
+        </mj-text>
+        <mj-text font-size="11px" line-height="150%" padding="0px 20px 20px">
+          <a href="https://tcgms.net/cgi-bin/unsub.cgi?mid=@@MID64@@" target="_blank" style="text-decoration:underline;color:#56564C;">
+            Unsubscribe
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

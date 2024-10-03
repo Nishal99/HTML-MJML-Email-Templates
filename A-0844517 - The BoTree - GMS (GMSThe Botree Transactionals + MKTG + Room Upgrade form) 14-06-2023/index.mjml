@@ -1,0 +1,297 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#ede3f0" width="640px">
+    <!--======Pre Header======-->
+   <mj-wrapper padding="0px 20px" background-color="#ede3f0">
+    <mj-section background-color="#ede3f0" padding="0px">
+      <mj-column width="50%">
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="12px" line-height="14px" color="#091733" align="left">
+         Your reservation confirmation
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="12px" line-height="14px" color="#091733" align="right">
+          <a href="#" target="_blank" style="text-decoration:none;color:#091733;">
+            View in browser
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   </mj-wrapper>
+    <mj-wrapper padding="0px 20px" background-color="#fefefe">
+      <!--======Logo & Social icons======-->
+      <mj-section background-color="#ffffff" padding="10px 40px">
+        <mj-column width="50%" vertical-align="middle">
+          <mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/imageonline-co-placeholder-image_(5).jpg" width="75px" height="auto" padding="0px" href="#" target="_blank" alt="Dummy image" align="left">
+          </mj-image>
+        </mj-column>
+        <mj-column width="50%" vertical-align="middle">
+          <mj-social font-size="14px" icon-size="14px" mode="horizontal" align="right" padding="10px 0px" border-radius="0px">
+          <mj-social-element alt="facebook" href="#" src="https://crmforms.cendyn.com/ShivaHotels/MiddleEight/Transactional/Template/facebook.png" padding="0px 10px">
+          </mj-social-element>
+          <mj-social-element alt="instagram" href="#" src="https://crmforms.cendyn.com/ShivaHotels/MiddleEight/Transactional/Template/instagram.png" padding="0px 10px">
+          </mj-social-element>
+          <mj-social-element alt="linkdin" href="#" src="https://crmforms.cendyn.com/ShivaHotels/MiddleEight/Transactional/Template/linkedin.png" padding="0px 10px">
+          </mj-social-element>
+            <mj-social-element alt="website" href="#" src="https://crmforms.cendyn.com/ShivaHotels/MiddleEight/Transactional/Template/globe.png" padding="0px 0px 0px 10px">
+          </mj-social-element>
+        </mj-social>
+        </mj-column>
+      </mj-section>
+      <!--======Banner image======-->
+      <mj-section padding="0px">
+        <mj-column>
+          <mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/imageonline-co-placeholder-image_(6).jpg" width="600px" height="auto" alt="Dummy image" padding="0px" href="#" target="_blank">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <!--======Body Content======-->
+      <mj-section padding="0px 30px">
+        <mj-column>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="14px" padding="40px 0px 0px" line-height="22px" color="#606060" text-transform="uppercase">
+            CONFIRMATION
+          </mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="30px" padding="10px 0px" line-height="36px" color="#008080" text-transform="uppercase" font-weight="900">
+            WELCOME TO <br/> MIDDLE EIGHT, <br/> COVENT GARDEN 
+          </mj-text>
+          <mj-divider border-color="#008080" border-width="1px" width="120px" padding="10px 0px 0px"></mj-divider>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="14px" padding="40px 0px" line-height="22px" color="#606060">
+            Dear @@rsfname@@ @@rslname@@,
+            <br/><br/>
+            We are delighted that you have chosen to stay with us at Middle Eight and look forward to welcoming you on Saturday, 1 July 2023.
+            <br/><br/>
+           It is important that we understand your preferences, so kindly complete the short form that we will be sending to you three days prior to your arrival; this will enable us to make your stay as enjoyable as possible.
+           <br/><br/>
+          Your reservation details and policy information are contained below for your review.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+     <!--======Your stay details======-->
+      <mj-section padding="0px" background-color="#091733">
+        <mj-column>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="28px" padding="40px 0px 0px" line-height="28px" color="#ffffff" font-weight="600" text-transform="uppercase">
+            YOUR STAY DETAILS
+          </mj-text>
+          <mj-divider border-color="#ffffff" border-width="1px" width="120px" padding="20px 0px 0px"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#091733">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="20px 10px 0px" line-height="28px" color="#ffffff" text-transform="uppercase" align="left" font-weight="600">
+            CONFIRMATION NUMBER:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="20px 10px 0px" line-height="28px" color="#ffffff" align="left">
+            @@confirmation_number@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#091733">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" text-transform="uppercase" align="left" font-weight="600">
+            ARRIVAL DATE:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" align="left">
+            @@checkin_date@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#091733">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" text-transform="uppercase" align="left" font-weight="600">
+            DEPARTURE DATE:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" align="left">
+            @@checkout_date@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#091733">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" text-transform="uppercase" align="left" font-weight="600">
+            NUMBER OF ADULTS:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" align="left">
+            @@number_of_adults@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+     <mj-section padding="0px 20px" background-color="#091733">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" text-transform="uppercase" align="left" font-weight="600">
+            NUMBER OF CHILDREN:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" align="left">
+            @@number_of_children@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#091733">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" text-transform="uppercase" align="left" font-weight="600">
+            TYPE OF ROOM:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" align="left">
+            @@room_type@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px" background-color="#091733">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" text-transform="uppercase" align="left" font-weight="600">
+            AVERAGE DAILY RATE:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" align="left">
+            @@nightly_rate_table@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 20px 40px" background-color="#091733">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" text-transform="uppercase" align="left" font-weight="600">
+            CANCEL BY:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="0px 10px" line-height="28px" color="#ffffff" align="left">
+            @@canel_by@@
+          </mj-text>
+        </mj-column>
+      </mj-section>
+     <mj-section padding="0px 30px" background-color="#008080">
+        <mj-column>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="14px" padding="40px 0px 0px" line-height="22px" color="#ffffff" text-transform="uppercase">
+            Explore 												
+          </mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="30px" padding="20px 0px 0px" line-height="28px" color="#ffffff" text-transform="uppercase">
+            OUR UPGRADES
+          </mj-text>
+          <mj-divider border-color="#ffffff" border-width="1px" width="120px" padding="20px 0px 0px"></mj-divider>
+         <mj-button border-radius="none" background-color="#ffffff" color="#008080" font-size="12px" line-height="12px" text-transform="uppercase" padding="30px 20px 40px" href="#" font-family="Arial, Helvetica, sans-serif" inner-padding="10px 20px">
+           EXPLORE
+         </mj-button>
+       </mj-column>
+     </mj-section>
+     <mj-section padding="0px">
+       <mj-column>
+         <mj-text font-family="Arial, Helvetica, sans-serif" font-size="28px" padding="40px 0px 30px" line-height="30px" color="#606060" text-transform="uppercase" font-weight="600 ">
+            LET THE GOOD TIMES ROLL 				
+          </mj-text>
+       </mj-column>
+     </mj-section>
+    
+    <mj-section padding="0px 0px 30px">
+      <mj-column vertical-align="middle">
+      	<mj-image border-radius="50%" padding="10px 20px" width="250px" src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/websiteplanet-dummy-250X250_(1).png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+      	<mj-text font-family="Arial, Helvetica, sans-serif" font-size="20px" padding="10px 20px" line-height="24px" color="#008080" text-transform="uppercase" font-weight="900">	
+DANCE THE NIGHT<br/> AWAY IN QT</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="10px 20px" line-height="18px" color="#606060">
+            Why not join us in QT where our resident artists take to the stage every week? Enjoy our sax-infused residency with music legend Leo Green and guest performances by Ray Gelato and Riva Taylor. We're expanding our musical line up early in the week with an eclectic mix of talented acts, from R&B to West End, Jazz to iconic Divas.
+          </mj-text>
+        <mj-button border-radius="none" background-color="#008080" color="#ffffff" font-size="12px" line-height="12px" text-transform="uppercase" padding="10px 20px 10px" href="#" font-family="Arial, Helvetica, sans-serif" inner-padding="10px 20px">
+  BOOK HERE
+         </mj-button>
+      </mj-column>
+    </mj-section>
+    <!------Divider------------------------->
+    <mj-section padding="0px 0px">
+    	<mj-column>
+      	<mj-divider width="100%" padding="0px 20px" border-width="1px" border-color="#008080"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-------------Second two col block--------------------->
+    <mj-section padding="30px 0px" direction="rtl">
+      <mj-column vertical-align="middle">
+      	<mj-image border-radius="50%" padding="10px 20px" width="250px" src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/websiteplanet-dummy-250X250_(1).png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+      	<mj-text font-family="Arial, Helvetica, sans-serif" font-size="20px" padding="10px 20px" line-height="24px" color="#008080" text-transform="uppercase" font-weight="900">ENJOY A MEAL AT SYCAMORE VINO CUCINA</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="10px 20px" line-height="18px" color="#606060">
+         If you are after a relaxing meal in the restaurant, Sycamore Vino Cucina is the perfect place for a truly authentic Italian dining experience. A symphony of flavours in a vibrant setting is waiting for you.
+          </mj-text>
+        <mj-button border-radius="none" background-color="#008080" color="#ffffff" font-size="12px" line-height="12px" text-transform="uppercase" padding="10px 20px 10px" href="#" font-family="Arial, Helvetica, sans-serif" inner-padding="10px 20px">
+  BOOK HERE
+         </mj-button>
+      </mj-column>
+    </mj-section>
+    <!------Divider------------------------->
+    <mj-section padding="0px 0px">
+    	<mj-column>
+      	<mj-divider width="100%" padding="0px 20px" border-width="1px" border-color="#008080"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-------------Third two col block--------------------->
+    <mj-section padding="30px 0px">
+      <mj-column vertical-align="middle">
+      	<mj-image border-radius="50%" padding="10px 20px" width="250px" src="https://images.tcgms.net/assets/p29y30j2ck28i00/media/images/websiteplanet-dummy-250X250_(1).png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+      	<mj-text font-family="Arial, Helvetica, sans-serif" font-size="20px" padding="10px 20px" line-height="24px" color="#008080" text-transform="uppercase" font-weight="900">	
+DELIGHT IN AFTERNOON TEA</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="10px 20px" line-height="18px" color="#606060">
+           Taking centre stage this spring is our ‘Covent Garden Crescendo’. Afternoon Tea can be enjoyed Wednesday to Sunday in The Balcony for £45 per person. Our Head Pastry Chef highly recommends his handmade Treble Clef Treat, a pistachio macaron filled with buttercream and roasted pistachio praline. It is simply divine. 
+          </mj-text>
+        <mj-button border-radius="none" background-color="#008080" color="#ffffff" font-size="12px" line-height="12px" text-transform="uppercase" padding="10px 20px 10px" href="#" font-family="Arial, Helvetica, sans-serif" inner-padding="10px 20px">
+  BOOK HERE
+         </mj-button>
+      </mj-column>
+    </mj-section>
+    <!------Low Text------------------------->
+     <mj-section padding="0px 30px 20px">
+        <mj-column>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="16px" padding="0px 0px 0px" line-height="22px" color="#606060"  font-weight="bold">
+      Our Policies
+          </mj-text>
+          
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" padding="20px 0px" line-height="14px" color="#606060">
+GUEST CANCELLATIONS<br/>
+            To avoid cancellation and/ or non-arrival charges, guests should observe the Middle Eight cancellation policy, applicable to your confirmed booking. If you are unable to attend your confirmed booking due to unprecedented circumstances, please contact our reservations team.
+            <br/><br/>
+           ROOM BOOKINGS<br/>
+            All reservations must be guaranteed with a credit/ debit card. In some instances, full pre-payment may be required at the time of booking. The amount of payment required at the time of booking will be advised to you during the booking process. Guests are required to show photo identification and a credit card upon check-in. In all cases, full payment will be due on departure from the hotel unless prior written agreement has been agreed.
+           <br/><br/>
+          BEYOND OUR CONTROL<br/>
+          We cannot accept responsibility for unforeseen circumstances beyond our control. These include (but are not limited to) adverse weather conditions, fire, riot, war, terrorist activity (or threat of such activity), industrial dispute, natural disaster, or injuries and death of an individual(s) through accidental circumstances unconnected with the hotel. By making a booking you are accepting responsibility for any damage of loss caused by yourself or a member of your party.
+            <br/><br/>
+          VAT POLICY<br/>
+          Rates are inclusive of VAT at the prevailing rate.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!---------------Footer---------------------->
+      <mj-section padding="40px 20px" background-color="#091733">
+      	<mj-column>
+        	<mj-image src="https://images.tcgms.net/assets/85bg63c63n5aj00/media/images/imageonline-co-placeholder-image_(5).jpg" width="75px" height="auto" padding="0px" href="#" target="_blank" alt="Dummy image">
+          </mj-image>
+          <mj-text letter-spacing="2px" font-family="Arial, Helvetica, sans-serif" font-size="11px" padding="20px 0px" line-height="18px" color="#ffffff"><a href="#" target="_blank" style="color:#ffffff; text-decoration:none;">66 Great Queen Street. Covent Garden, London WC2B 5BX</a><br/>
+            <a href="tel:+44(0)2073099300" target="_blank" style="color:#ffffff; text-decoration:none;">Tel: +44 (0) 20 7309 9300</a> / <a href="tel:mailto:hello@middleeight.com" target="_blank" style="color:#ffffff; text-decoration:none;">Email: hello@middleeight.com</a></mj-text>
+          <mj-text font-style="italic" font-family="Arial, Helvetica, sans-serif" font-size="11px" padding="0px 0px" line-height="12px" color="#ffffff"><a href="#" target="_blank" style="color:#ffffff; text-decoration:underline;">Unsubscribe</a></mj-text>
+        </mj-column>
+      </mj-section>
+   </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -1,0 +1,272 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>Een nieuw hotel voor Carlton Hotel Collection
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-breakpoint width="480px">
+    </mj-breakpoint>
+    <mj-style>
+      @media all and (max-width: 595px) {
+      div{text-align:center!important;
+      }
+      td.mob-align table {
+      width: 100% !important;
+      margin: 0 auto !important;
+      }
+      td.ftr-image,
+      td.mob-align {
+      padding-bottom: 20px !important;
+      }
+      td.ftr-image table,
+      td.align-btn table {
+      margin: 0 auto !important;
+      }
+      td.mob {
+      display: block !important;
+      }
+      .main-tbl td {
+      display:block !important;
+      width:100%!important;
+      text-align:center!important;
+      }
+      .main-tbl td.mob {
+      width:180px!important;
+      margin: 0 auto;
+      }
+      td.center-mob{padding-top:20px !important;
+      padding-bottom:0px !important;
+      }
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text font-family="Tahoma,Sans-Serif" color="#1E1E76" font-size="14px" line-height="130%" align="center">
+      </mj-text>
+      <mj-button width="180px" background-color="#867043" color="#ffffff" font-family="'Trebuchet MS', Helvetica, sans-serif" font-size="14px" font-weight="bold" line-height="120%" text-decoration="none" text-transform="uppercase" padding="20px 25px 0px" inner-padding="10px 0" border-radius="0px" align="left">
+      </mj-button>
+    </mj-attributes>
+    <!--center sections-->
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!--vib-->
+    <mj-section padding="20px 0px 0px" css-class="center">
+      <mj-column>
+        <mj-text font-size="13px" padding="0px 10px 0px" color="#000000">
+          <a href="https://tcgms.net/tr/c/@@MID@@/2375980/%20@@MID64@@" style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 11px; color: rgb(0, 0, 0);">bekijk deze mail in je browser</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--white wrapper-->
+    <mj-wrapper padding="0" background-color="#ffffff">
+      <!--logo left social right-->
+      <mj-section padding="20px 0px 0 0px">
+        <mj-column>
+          <mj-image src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/cdbc4e39-c186-4f75-b941-b0d29c6f1147.png" width="150px" height="auto" alt="Dummy logo image" href="https://tcgms.net/tr/c/@@MID@@/2076480" target="_blank" padding="10px 0 10px 0"/>
+          <!--DIVIDER-->
+        </mj-column>
+      </mj-section>
+      <!--1 col image + text-->
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text font-family="Verdana, Geneva, sans-serif" font-size="24px" font-weight="bold" align="center" text-transform="uppercase" padding="20px 25px 10px 25px" color="#eee9e0" line-height="22px">
+            <span style="font-size: large;"><span style="color: rgb(0, 0, 0);">hET </span><span style="color: rgb(0, 99, 62);">NIEUWSTE</span><span style="color: rgb(0, 0, 0);"> </span><span style="color: rgb(73, 81, 80);">HOTEL VAN</span></span>
+            <div>
+              <span style="font-size: large; color: rgb(73, 81, 80);">CARLTON HOTEL Collection</span>
+            </div>
+            <div>
+              <span style="font-size: large; color: rgb(73, 81, 80);">staat in antwerpen!</span>
+            </div>
+          </mj-text>
+          <mj-text align="left" padding="10px 20px 15px 20px" line-height="18px" font-size="14px">
+            <div style="text-align: center;">
+              <div>
+                <font face="Verdana, Geneva, sans-serif" style="font-size: small;" color="#495150">We zijn trots!&nbsp;BANKS Antwerpen is de nieuwste aanwinst binnen onze Carlton Hotel Collection. Genesteld in hartje Antwerpen bij de Vrijdagmarkt in de creatieve Modewijk, omringd door galeries en bijzondere winkels én op steenworp afstand van de Grote Markt.
+                  <br>
+                  <br>
+                </font>
+              </div>
+              <div>
+                <font face="Verdana, Geneva, sans-serif" style="font-size: small;" color="#495150">Zoals elk hotel van Carlton Hotel Collection, heeft ook BANKS een eigen karakter en individuele stijl. Alhoewel we je graag zien bij ons in Amsterdam sturen wij in deze email een voorproefje voor een volgend bezoek aan Antwerpen.
+                </font>
+              </div>
+            </div>
+          </mj-text>
+          <mj-image src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/9e844cae-0ad4-4cf1-b006-d97f26709b5b.jpg" padding="0 0 0 0" href="https://tcgms.net/tr/c/@@MID@@/2748443"/>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!--yellow wrapper-->
+    <mj-section padding="10px 65px 0 65px">
+      <mj-column>
+        <mj-text align="left" line-height="32px" padding="10px 0 0 0" font-size="11px">
+          <div style="font-size: 24px;">
+            <span style="font-size: x-large;"><font face="Helvetica, sans-serif" style="color: rgb(0, 0, 0);">Stay in the heart of&nbsp;
+              </font><span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif;">Antwerp's <br>Culture District</span></span>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding="0" background-color="#9AC1E5">
+      <!--2 col left-->
+    </mj-wrapper>
+    <mj-section padding="0px 0px 0px" background-color="#ffffff">
+      <mj-column vertical-align="middle">
+      </mj-column>
+      <mj-column vertical-align="middle">
+      </mj-column>
+    </mj-section>
+    <!--Footer----->
+    <mj-section padding="10px 65px 0 65px">
+      <mj-column>
+        <mj-text align="left" padding="10px 0 20px 0">
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">BANKS is niet zomaar een hotel en jij bent niet zomaar een gast. Hier ben je deel van&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">onze familie, dus doe vooral alsof je thuis bent: niets hoeft en alles kan.</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;"><br></span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Je vindt ons bij de Vrijdagmarkt - een gezellig pleintje in het hart van de stad, geliefd&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">bij de locals vanwege de ongedwongen sfeer en centrale ligging. Terrasjes, musea,&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">shops, nightlife, de Grote Markt, zonsondergang aan de Schelde: het is allemaal&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">maar een paar minuten slenteren van onze voordeur.</span>
+          </div>
+        </mj-text>
+        <mj-button align="left" padding="0 0 0 0" background-color="#ffe000" href="https://tcgms.net/tr/c/@@MID@@/2758735">
+          <span style="font-weight: normal; color: rgb(0, 0, 0);">ontdek meer</span>
+          <br>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0 0 0">
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/9aa957ef-46ca-4d29-83af-1adf4a9b1fb2.jpg" padding="30px 0 0 0"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 65px 15px 65px" background-color="#ffe000">
+      <mj-column>
+        <mj-text align="left" line-height="32px" padding="10px 0 0 0">
+          <div style="font-size: 24px;">
+            <span style="font-size: x-large;"><font face="Helvetica, sans-serif" style="color: rgb(0, 0, 0);">Take a moment to&nbsp;
+              </font><span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif;">indulge <br>the city’s wonders</span></span>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 65px 0 65px">
+      <mj-column>
+        <mj-text align="left" padding="10px 0 20px 0">
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Bij BANKS is het beste van de stad gewoon deel van de service. Met de persoonlijke favorieten van ons team als tips, laat je de massa &amp; clichés links liggen en kom je gegarandeerd goed terecht.</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;"><br></span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Loopafstand vanaf BANKS Antwerpen:</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">De Vrijdagmarkt: 0 min</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Grote Markt: 2 min</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">ModeMuseum: 2 min</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Kammenstraat: 2 min</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Kloosterstraat antiekbuurt: 3 min</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Meir shopping: 5 min</span>
+          </div>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Schelde: 5 min</span>
+          </div>
+        </mj-text>
+        <mj-button align="left" padding="0 0 0 0" background-color="#ffe000" href="https://tcgms.net/tr/c/@@MID@@/2753335">
+          <span style="color: rgb(0, 0, 0); font-weight: 400;">ontdek meer</span>
+          <br>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 65px 0 65px">
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/70dfb198-8843-4842-9906-231c01e98945.jpg" padding="0 0 0 0"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 65px 15px 65px">
+      <mj-column>
+        <mj-text align="left" line-height="32px" padding="10px 0 0 0">
+          <span style="font-size: x-large;"><span style="font-family: Helvetica, sans-serif; color: rgb(0, 0, 0);">Speciale aanbieding:</span><span style="font-family: Helvetica, sans-serif; color: rgb(0, 0, 0);">&nbsp;</span></span>
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: x-large;">overnachting&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: x-large;">+&nbsp;</span>
+            <span style="font-size: x-large; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif;">gratis&nbsp;</span>
+            <div>
+              <div>
+                <span style="font-size: x-large; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif;">'Time to Momo Antwerpen' boekje</span>
+              </div>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="5px 65px 0 65px">
+      <mj-column>
+        <mj-text align="left" padding="10px 0 0 0">
+          <div>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Welke kamer je ook kiest, je kan er&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">zeker van zijn dat je elke ochtend&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">lekker uitgerust bent om maximaal van&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">Antwerpen te genieten. Alle&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">kamers en suites zijn licht en modern&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">ingericht. De kwaliteit van jouw nachtrust&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">is gegarandeerd door een high-</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">quality bed, een echt donsdeken,&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">kraaknet bedlinnen. Alles wat je&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">nodig hebt om heerlijk verfrist de&nbsp;</span>
+            <span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: small;">hoogtepunten van de stad te beleven.</span>
+          </div>
+        </mj-text>
+        <mj-button align="left" padding="30px 0 0 0" background-color="#ffe000" href="https://tcgms.net/tr/c/@@MID@@/2753335">
+          <span style="color: rgb(0, 0, 0); font-weight: 400;">boek nu</span>
+          <br>
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/f47829b6-e415-4ffe-9d58-59eb20625867.jpg" padding="20px 0 0 5px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0 10px 0" background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/a0493717-6944-4804-9109-425a2bff5e5c.jpg" width="110px" padding="5px 0 0 0" href="https://tcgms.net/tr/c/@@MID@@/2750346" target="_blank" alt="Logo of Banks antwerp" container-background-color="#ffe000"/>
+        <mj-social icon-size="40px" mode="horizontal" padding="15px 0px 10px" container-background-color="#ffe000">
+          <mj-social-element padding="0px 5px 10px" href="https://tcgms.net/tr/c/@@MID@@/2764678" src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/ced9e2eb-e75e-431b-84ba-c0214bc43e2c.png" target="_blank" alt="Facebook" icon-size="30px">  
+          </mj-social-element>
+          <mj-social-element padding="0px 5px 10px" href="https://tcgms.net/tr/c/@@MID@@/2764683" src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/717fc146-6521-4ce3-8a2c-e5a8b2f3f82e.png" target="_blank" alt="Instagram" icon-size="30px">
+          </mj-social-element>
+          <mj-social-element padding="0px 5px 10px" href="https://tcgms.net/tr/c/@@MID@@/2764691" src="https://images.tcgms.net/assets/71bt17w16i14400/media/images/e2f6a7e5-9ab5-471b-9741-3b2f800aeab8.png" target="_blank" alt="Linkedin" icon-size="30px">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 0 0">
+      <mj-column width="25%" vertical-align="middle">
+      </mj-column>
+      <mj-column width="75%" vertical-align="middle">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="10px" line-height="19px" padding="0px">
+          <span style="color: rgb(0, 0, 0);">Als je deze e-mails liever niet meer wenst te ontvangen, <a href="http://tcgms.net/cgi-bin/unsub.cgi?mid=@@MID64@@" target="_blank" style="text-decoration: underline;">meld je dan hier af.</a></span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

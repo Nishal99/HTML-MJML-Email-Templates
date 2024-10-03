@@ -1,0 +1,186 @@
+<mjml>
+  <mj-head>
+    <mj-title>Sublimis Boutique Hotel Camogli Reservation Cancellation
+    </mj-title>
+    <mj-preview>
+    </mj-preview>
+    <mj-font name="Libre Baskerville" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap"/>
+    <mj-font name="Waterfall" href="https://fonts.googleapis.com/css2?family=Waterfall&display=swap"/>
+    <mj-style>
+      @media (max-width: 595px) {
+      div{
+      text-align:center !important;
+      }
+      .header-logo table,
+      .ftr-logo table{
+      margin:0 auto !important;
+      }
+      .col-image table{
+      width:100% !important;
+      }
+      td.col-image{
+      padding-left:20px !important;
+      padding-right:20px !important;
+      }
+      .social_tbl {
+      padding-top: 0px !important;
+      text-align: center;
+      }
+      .btn-pd{
+      padding-top:0px !important;
+      padding-bottom:20px !important;
+      }
+      .mob-pd{
+      padding-top:0px !important;
+      padding-bottom:10px !important;
+      }
+      span.br-mob {
+      display:none !important;
+      }
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-text font-family="'Libre Baskerville', sans-serif" font-size="13px" line-height="150%" color="#000" padding="20px 20px 0px">
+      </mj-text>
+      <mj-class name="head" font-family="'Libre Baskerville', sans-serif" font-size="20px" line-height="150%" color="#0085A2" font-weight="bold" align="left">
+      </mj-class>
+      <mj-class name="head2" font-size="16px" color="#0085A2" font-family="'Libre Baskerville', sans-serif" align="center">
+      </mj-class>
+      <mj-section padding="0px" background-color="#fff">
+      </mj-section>
+      <mj-button border-radius="0px" text-transform="uppercase" font-size="13px" font-family="'Libre Baskerville', sans-serif" color="#ffffff" background-color="#0085A2" inner-padding="10px 15px" align="center" href="#">
+      </mj-button>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#BFBFBF">
+    <!--View in Browser-->
+    <mj-section background-color="#BFBFBF">
+      <mj-column>
+        <mj-text font-family="'Libre Baskerville', sans-serif" font-size="11px" line-height="150%" color="#7b868c" padding="20px" align="center">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2639836/%20@@MID64@@" target="_blank" style="color:#000">
+            View in Browser
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Header Section-->
+    <mj-section padding="20px" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://images.tcgms.net/assets/207t03200300700/media/images/LOGO_AZZURRO_PNG_1.png" width="200px" height="auto" alt="Sublimis Boutique Hotel Camogli hotel logo" padding="0px" href="http://tcgms.net/tr/c/@@MID@@/2640251" target="_blank" css-class="header-logo"/>
+      </mj-column>
+    </mj-section>
+    <!--Banner image-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://images.tcgms.net/assets/207t03200300700/media/images/Maiestas_terrazza.jpg" width="600px" height="auto" alt="Interior view of the bed room" padding="0px"/>
+      </mj-column>
+    </mj-section>
+    <!--Body text-->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          Dear @@rsfname@@,
+        </mj-text>
+        <mj-text>Thank you for getting in touch, we’re sorry to hear that you’re unable to join us here at @@property_name@@. As requested, we’ve now cancelled your room reservation.
+        </mj-text>
+        <mj-text>Should you have any questions or concerns, please don’t hesitate to contact us directly at
+          <a style="text-decoration:none; color:#0085A2" target="_blank" href="@@property_phone_number@@"> @@property_phone_number@@ </a>
+          or via email at 
+          <a style="text-decoration:none; color:#0085A2" target="_blank" href="mailto:info@hotelsublimiscamogli.it">info@hotelsublimiscamogli.it.</a> 
+          <br>
+          <br>The details of your cancellation are below.
+        </mj-text>
+        <mj-divider border-color="#0085A2" border-width="1px" padding="20px 20px 0px"/>
+      </mj-column>
+    </mj-section>
+    <!--Section title-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="head">
+          CANCELLATION DETAILS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Details-->
+    <mj-section padding="20px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 15px" font-weight="bold">
+          Confirmation No.
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 15px">
+          @@confirmation_number@@
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 15px" font-weight="bold">
+          Guest Name
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 15px">
+          @@rsfname@@ @@rslname@@
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 15px" font-weight="bold">
+          Arrival Date
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 15px">
+          @@check_in@@
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 0px">
+      <mj-column width="30%">
+        <mj-text padding="0px 0px 15px" font-weight="bold">
+          Departure Date
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 0px 15px">
+          @@check_out@@
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Footer -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#0085A2" border-width="1px" padding="20px 20px 20px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0085A2" padding="20px 20px 0px">
+      <mj-column width="68%" vertical-align="middle">
+        <mj-image src="https://images.tcgms.net/assets/207t03200300700/media/images/LOGO_bianco_PNG_1.png" width="200px" height="auto" padding="0px" alt="Sublimis Boutique Hotel Camogli Hotel Logo" href="http://tcgms.net/tr/c/@@MID@@/2640251" target="_blank" align="right" css-class="ftr-logo"/>
+      </mj-column>
+      <mj-column width="32%" vertical-align="middle">
+        <mj-social align="right" mode="horizontal" border-radius="0px" icon-height="24px" padding="0px" css-class="social_tbl">
+          <mj-social-element alt="facebook-icon" href="http://tcgms.net/tr/c/@@MID@@/2640252" icon-size="24px" padding="2px 12px 4px 0" src="http://images.zmaildirect.com/img/48c04SspnZIb./images/outline-facebook-96_wht.png">
+          </mj-social-element>
+          <mj-social-element icon-size="24px" padding="2px 0px 4px 0" href="http://tcgms.net/tr/c/@@MID@@/2640253" alt="instagram-icon" src="http://images.zmaildirect.com/img/48c04SspnZIb./images/outline-instagram-96_wht.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0085A2" padding="20px 0 20px">
+      <mj-column>
+        <mj-text align="center" padding="0px 20px" color="#ffffff">
+          <a href="http://tcgms.net/tr/c/@@MID@@/2640254" target="_blank" style="color: #ffffff; text-decoration: none">Salita Pinetto 13, Camogli, 16032, Italy
+          </a>
+          |
+          <a href="tel:01851788031" style="color: #ffffff; text-decoration: none">
+            0185 1788031</a> - 
+          <a href="tel:01851788032" style="color: #ffffff; text-decoration: none">0185 1788032 
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
